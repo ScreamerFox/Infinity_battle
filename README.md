@@ -1,6 +1,6 @@
 <h1 align="center">Игра рогалик <a href="https://github.com/ScreamerFox/Infinity_battle" target="_blank">Infinity battle ⚔️</a>
 
-<img src="https://github.com/ScreamerFox/Infinity_battle/blob/master/preview.jpg" height="32"/>
+<img src="https://github.com/ScreamerFox/Infinity_battle/blob/master/preview.jpg" height="100"/>
 
 
 <h3> Веб-игра на Django, где игрок сражается с монстрами, повышает уровень и набирает очки.
