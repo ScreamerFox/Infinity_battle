@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<h2>Регистрация</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Регистрация</button>
+</form>
+<a href="{% url 'infinity:login_f' %}">Вход</a>
+{% endblock %}

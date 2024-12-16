@@ -1,0 +1,104 @@
+INFO 2024-12-16 11:54:20,249 autoreload 7656 16244 Watching for file changes with StatReloader
+INFO 2024-12-16 11:54:25,808 views 7656 6388 Начало обработки запроса регистрации.
+DEBUG 2024-12-16 11:54:25,808 views 7656 6388 Отображение формы регистрации (метод GET).
+INFO 2024-12-16 11:54:30,726 views 7656 6388 Начало обработки запроса регистрации.
+WARNING 2024-12-16 11:54:30,728 views 7656 6388 Форма регистрации не прошла валидацию. Ошибки: * password2
+  * The two password fields didn’t match.
+INFO 2024-12-16 11:56:47,923 autoreload 7656 16244 D:\Project\Python\Diplom\Django\gameDJ\gameDJ\settings.py changed, reloading.
+INFO 2024-12-16 11:56:48,250 autoreload 21396 17792 Watching for file changes with StatReloader
+INFO 2024-12-16 11:57:30,914 views 21396 6804 Начало обработки запроса регистрации.
+INFO 2024-12-16 11:57:30,923 views 21396 6804 Форма регистрации успешно прошла валидацию.
+INFO 2024-12-16 11:57:31,539 views 21396 6804 Пользователь Sebastian успешно создан.
+INFO 2024-12-16 11:57:31,661 views 21396 6804 Пользователь Sebastian успешно залогинен.
+ERROR 2024-12-16 11:57:31,663 views 21396 6804 Ошибка при сохранении пользователя: Reverse for 'base' not found. 'base' is not a valid view function or pattern name.
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 32, in register
+    return redirect('infinity:base')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\shortcuts.py", line 49, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\shortcuts.py", line 180, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'base' not found. 'base' is not a valid view function or pattern name.
+INFO 2024-12-16 11:58:50,631 autoreload 21396 17792 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 11:58:50,973 autoreload 15620 20436 Watching for file changes with StatReloader
+INFO 2024-12-16 11:59:20,666 autoreload 15620 20436 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 11:59:20,991 autoreload 15364 10204 Watching for file changes with StatReloader
+INFO 2024-12-16 11:59:39,509 autoreload 15364 10204 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 11:59:39,844 autoreload 17940 2552 Watching for file changes with StatReloader
+INFO 2024-12-16 11:59:49,275 autoreload 17940 2552 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 11:59:49,616 autoreload 13284 4456 Watching for file changes with StatReloader
+INFO 2024-12-16 12:01:11,150 autoreload 13284 4456 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:01:11,472 autoreload 11224 19228 Watching for file changes with StatReloader
+INFO 2024-12-16 12:04:21,634 autoreload 11224 19228 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:04:21,982 autoreload 4548 13804 Watching for file changes with StatReloader
+INFO 2024-12-16 12:04:30,309 autoreload 4548 13804 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:04:30,658 autoreload 9188 20080 Watching for file changes with StatReloader
+INFO 2024-12-16 12:04:34,817 autoreload 9188 20080 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:04:35,150 autoreload 12880 8320 Watching for file changes with StatReloader
+INFO 2024-12-16 12:04:46,549 autoreload 12880 8320 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:04:46,873 autoreload 9280 9360 Watching for file changes with StatReloader
+INFO 2024-12-16 12:05:27,749 autoreload 9280 9360 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:05:28,062 autoreload 13816 6496 Watching for file changes with StatReloader
+INFO 2024-12-16 12:05:40,541 autoreload 13816 6496 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:05:40,858 autoreload 4948 15748 Watching for file changes with StatReloader
+INFO 2024-12-16 12:06:14,602 autoreload 4948 15748 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:06:14,956 autoreload 19212 11816 Watching for file changes with StatReloader
+INFO 2024-12-16 12:07:33,427 autoreload 19212 11816 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:07:33,747 autoreload 6880 11676 Watching for file changes with StatReloader
+INFO 2024-12-16 12:07:51,244 autoreload 6880 11676 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:07:51,587 autoreload 20960 9292 Watching for file changes with StatReloader
+INFO 2024-12-16 12:08:18,298 autoreload 20960 9292 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:08:18,620 autoreload 17480 7020 Watching for file changes with StatReloader
+INFO 2024-12-16 12:09:54,419 autoreload 17480 7020 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:09:54,740 autoreload 11140 9376 Watching for file changes with StatReloader
+INFO 2024-12-16 12:10:16,313 autoreload 11140 9376 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:10:16,639 autoreload 6788 3608 Watching for file changes with StatReloader
+INFO 2024-12-16 12:10:28,037 autoreload 6788 3608 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:10:28,364 autoreload 20408 10868 Watching for file changes with StatReloader
+INFO 2024-12-16 12:13:00,978 autoreload 20408 10868 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-16 12:13:01,415 autoreload 11000 13980 Watching for file changes with StatReloader
+INFO 2024-12-16 12:37:55,005 autoreload 4260 4660 Watching for file changes with StatReloader
+DEBUG 2024-12-16 12:38:02,925 views 4260 1184 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Крыса, HP врага: 1
+DEBUG 2024-12-16 12:38:09,660 views 4260 1184 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-16 12:38:09,660 views 4260 1184 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-16 12:38:09,661 views 4260 1184 Действие врага: Атака - голова, Защита - голова
+INFO 2024-12-16 12:38:09,661 views 4260 1184 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-16 12:38:09,661 views 4260 1184 Враг Рогач побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-16 12:38:16,412 views 4260 1184 Начало боя. Уровень: 2, HP игрока: 3, Очки игрока: 100, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-16 12:38:16,412 views 4260 1184 Действие игрока: Атака - торс, Защита - ноги
+DEBUG 2024-12-16 12:38:16,412 views 4260 1184 Действие врага: Атака - ноги, Защита - ноги
+INFO 2024-12-16 12:38:16,412 views 4260 1184 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-16 12:38:16,412 views 4260 1184 Враг Гнолл побежден! Уровень повышен до 3, очки игрока: 200
+DEBUG 2024-12-16 12:38:25,875 views 4260 1184 Начало боя. Уровень: 3, HP игрока: 3, Очки игрока: 200, Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-16 12:38:25,875 views 4260 1184 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-16 12:38:25,875 views 4260 1184 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-16 12:38:25,875 views 4260 1184 Результат боя: Урон друг другу
+INFO 2024-12-16 12:38:25,875 views 4260 1184 Игрок получил урон. HP игрока: 2
+INFO 2024-12-16 12:38:25,875 views 4260 1184 Враг Минотавр побежден! Уровень повышен до 4, очки игрока: 300
+DEBUG 2024-12-16 12:38:32,414 views 4260 1184 Начало боя. Уровень: 4, HP игрока: 2, Очки игрока: 300, Враг: Минотавр, HP врага: 1
+DEBUG 2024-12-16 12:38:32,414 views 4260 1184 Действие игрока: Атака - торс, Защита - ноги
+DEBUG 2024-12-16 12:38:32,414 views 4260 1184 Действие врага: Атака - торс, Защита - торс
+INFO 2024-12-16 12:38:32,414 views 4260 1184 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-16 12:38:32,414 views 4260 1184 Игрок получил урон. HP игрока: 1
+DEBUG 2024-12-16 12:38:40,492 views 4260 1184 Начало боя. Уровень: 4, HP игрока: 1, Очки игрока: 300, Враг: Минотавр, HP врага: 1
+DEBUG 2024-12-16 12:38:40,493 views 4260 1184 Действие игрока: Атака - голова, Защита - голова
+DEBUG 2024-12-16 12:38:40,493 views 4260 1184 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-16 12:38:40,493 views 4260 1184 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-16 12:38:40,493 views 4260 1184 Игрок получил урон. HP игрока: 0
+INFO 2024-12-16 12:46:07,226 autoreload Watching for file changes with StatReloader
+DEBUG 2024-12-16 12:46:12,081 views Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Ихтиозавр, HP врага: 1
+INFO 2024-12-16 12:46:29,941 autoreload D:\Project\Python\Diplom\Django\gameDJ\gameDJ\settings.py changed, reloading.
+INFO 2024-12-16 12:46:30,253 Watching for file changes with StatReloader
+DEBUG 2024-12-16 12:46:31,473 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Ихтиозавр, HP врага: 1
+INFO 2024-12-16 12:46:38,461 Watching for file changes with StatReloader
+DEBUG 2024-12-16 12:46:40,937 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Вор, HP врага: 1
+INFO 2024-12-16 12:54:13,087 Watching for file changes with StatReloader
+DEBUG 2024-12-16 12:54:20,713 Отображение формы авторизации (метод GET).

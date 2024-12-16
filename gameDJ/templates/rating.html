@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<head>
+    <meta charset="UTF-8">
+    <title>Leaderboard</title>
+</head>
+<body>
+    <h1>Доска почёта</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Место</th>
+                <th>Игроки</th>
+                <th>Лучший результат</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for player in top_players %}
+            <tr>
+                <td>{{ forloop.counter }}</td>
+                <td>{{ player.user.username }}</td>
+                <td>{{ player.high_score }}</td>
+            </tr>
+            {% empty %}
+            <tr>
+                <td colspan="3">Нет данных!</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <a href="{% url 'infinity:home' %}">домой</a>
+</body>
+{% endblock %}

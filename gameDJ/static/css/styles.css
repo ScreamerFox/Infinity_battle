@@ -1,0 +1,120 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.battle-container {
+    display: flex;
+    flex-direction: column; /* Важно! Контейнер становится flex-column */
+    align-items: center; /* Центрирование по горизонтали */
+    width: 90%;
+    margin: 20px auto; /*Центрирование по горизонтали*/
+    flex-grow: 1;
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(to right, rgb(85, 227, 38), rgb(245, 39, 39));
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.battle-area {
+    display: flex; /* Блоки выстраиваются в ряд */
+    justify-content: space-between; /* Распределение пространства между блоками */
+    width: 100%;
+    margin-top: 20px; /* Отступ от заголовка */
+    box-sizing: border-box;
+}
+
+.player, .enemy, .result_desc { /*Общие стили*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgba(39, 23, 86, 0.72);
+    width: 30%; /* Ширина каждого блока, чтобы поместились в ряд */
+    min-height: 200px;
+    box-sizing: border-box;
+}
+.player{
+    background-color: rgba(35, 213, 82, 0.55);
+    color: #4e0a86;
+}
+.enemy{
+    background-color: rgba(217, 2, 6, 0.55);
+    color: #4e0a86;
+}
+.result_desc{
+    background-color: rgba(184, 129, 231, 0.76);
+    color: #000000;
+}
+
+.hero_img, .monster-image {
+    display: block;
+    margin: 10px auto;
+    max-width: 80%;
+    height: auto;
+    border: 2px solid #555;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s;
+}
+
+.hero_img:hover, .monster-image:hover {
+    transform: scale(1.1);
+    position: relative;
+}
+
+#player_attack_buttons, #player_def_buttons {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    width: 100%;
+    align-items: center;
+    gap: 5px;
+}
+
+.player-button {
+    padding: 10px 20px;
+    background-color: #673ab7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px 0;
+    width: 80%;
+}
+
+button:disabled {
+    background-color: gray;
+    cursor: not-allowed;
+}
+
+
+.end_btn {
+    display: flex;
+    border-radius: 5px;
+    align-items: center;
+    background-color: rgba(7, 222, 201, 0.54);
+    width: 10%;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+}
+
+.result_desc h3{
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgba(33, 11, 183, 0.76);
+    color: #93c4ee;
+    top: 10%
+}

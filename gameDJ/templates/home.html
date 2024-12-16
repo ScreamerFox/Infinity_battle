@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% load static %}
+
+
+{% block content %}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infinity Battle - Главная</title>
+    <link rel="stylesheet" href="{% static 'css/styles_home.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>Добро пожаловать в <span class="highlight">Infinity battle</span>!</h1>
+        <p>Это домашняя страница приложения.</p>
+        {% if user.is_authenticated %}
+        <a href="{% url 'infinity:dashboard' %}" class="btn">Вперёд в битву!</a>
+        {% else %}
+        <a href="{% url 'infinity:login_f' %}" class="btn">Войти в игру</a>
+        {% endif %}
+    </div>
+</body>
+{% endblock %}

@@ -1,0 +1,132 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <header class="header">
+        <h1>Начнём же бесконечный бой!</h1>
+        <p>Уровень {{ level }}</p>
+    </header>
+</head>
+
+
+<body>
+<main class="battle-container">
+    <form method="post">
+    {% csrf_token %}
+    <input type="hidden" id="player_attack" name="player_attack">
+    <input type="hidden" id="player_def" name="player_def">
+    <div class="battle-area">
+        <div class="player">
+            <h3>Герой!</h3>
+            <p>Ваше HP: {{ player_hp }} | Scores: {{ player_scores }}</p>
+            <img src="/media/{{ hero_img }}" class="hero_img">
+            <div id="player_def_buttons">  <h4>Защищать:</h4>
+                <button type="button" class="player-button" value="голова">Голова</button>
+                <button type="button" class="player-button" value="торс">Торс</button>
+                <button type="button" class="player-button" value="ноги">Ноги</button>
+            </div>
+        </div>
+
+        <div class="result_desc">
+            <button id="confirm_button">Подтвердить</button>
+            {% if result %}
+                <h4>Результат раунда:</h4>
+                <p>Ваши действия:</p> <p><font color="blue">защита-{{ player_def }}</font> | <font color="red">атака-{{ player_attack }}</font></p>
+                <p>Действия врага:</p> <p></font> <font color="red">атака-{{ enemy_attack }}</font> | <font color="blue">защита-{{ enemy_def }}</font></p>
+
+                <h3>{{ result }}</h3>
+            {% endif %}
+        </div>
+
+        <div class="enemy">
+            <h3>{{ enemy }}!</h3>
+            <p>HP врага: {{ enemy_hp }}</p>
+            <img src="/media/{{ monster_image }}" alt="{{ enemy }}" class="monster-image" usemap="#attack-map">
+            <div id="player_attack_buttons"> <h4>Атаковать:</h4>
+                <button type="button" class="player-button" value="голова">Голова</button>
+                <button type="button" class="player-button" value="торс">Торс</button>
+                <button type="button" class="player-button" value="ноги">Ноги</button>
+            </div>
+        </div>
+    </div>
+    </form>
+</main>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const playerAttackButtons = document.querySelectorAll('#player_attack_buttons .player-button');
+        const playerDefButtons = document.querySelectorAll('#player_def_buttons .player-button');
+        const playerAttackInput = document.getElementById('player_attack');
+        const playerDefInput = document.getElementById('player_def');
+
+        function handleButtonClick(buttons, targetInput) {
+                buttons.forEach(button => {
+                    button.addEventListener('click', function () {
+                    buttons.forEach(b => b.disabled = false); // Разблокируем все кнопки
+                    button.disabled = true; // Блокируем текущую
+                    targetInput.value = this.value;
+                    });
+            });
+        }
+
+        handleButtonClick(playerAttackButtons, playerAttackInput);
+            handleButtonClick(playerDefButtons, playerDefInput);
+    });
+</script>
+
+<a href="{% url 'infinity:end_game' %}" class="end_btn">Сбросить результат</a>
+
+
+    <div class="modal fade" id="enemyDefeatedModal" tabindex="-1" aria-labelledby="enemyDefeatedModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="enemyDefeatedModalLabel">{{ enemy }} побеждён!</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    Поздравляем, {{ enemy }} повержен!
+                    <p>Ваши очки + 100</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Ура</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="playerDefeatedModal" tabindex="-1" aria-labelledby="playerDefeatedModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="playerDefeatedModalLabel">Game Over!</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    Вы проиграли, возвращайтесь с новыми силами!
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" onclick="window.location.href='/end_game'">Exit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            {% if notification == 'enemy_defeated' %}
+                new bootstrap.Modal(document.getElementById('enemyDefeatedModal')).show();
+            {% elif notification == 'player_defeated' %}
+                new bootstrap.Modal(document.getElementById('playerDefeatedModal')).show();
+            {% endif %}
+        });
+    </script>
+
+</body>
+{% endblock %}
