@@ -1,6 +1,6 @@
 <h1 align="center">Игра рогалик <a href="https://github.com/ScreamerFox/Infinity_battle" target="_blank">Infinity battle ⚔️</a>
 </br>
-<img src="https://github.com/ScreamerFox/Infinity_battle/blob/master/preview.jpg" height="500"/>
+<img src="https://github.com/ScreamerFox/Infinity_battle/blob/master/gameDJ/media/images/sis/preview.jpg" height="500"/>
 
 <h2 align="center">О себе:</h2>
 <h3>Меня зовут Евгений! Я начинающий python-разработчик из Челябинска. мне 29 лет.</h3>
