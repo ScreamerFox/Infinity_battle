@@ -4,7 +4,8 @@
 
 <h2 align="center">О себе:</h2>
 <h3>Меня зовут Евгений! Я начинающий python-разработчик из Челябинска. мне 29 лет.</h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ScreamerFox)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ScreamerFox)](https://git.io/streak-stats)
 
 <h2 align="center">О Проекте:</h2>
 <h3> Веб-игра на Django, где игрок сражается с монстрами, повышает уровень и набирает очки.
