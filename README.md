@@ -37,7 +37,7 @@
     
     `venv\Scripts\activate (Windows) `
  7) Установите зависимости: pip install -r requirements.txt
- 8) Перейдите в папку с `manage.py`: cd gameDJ
+ 8) Перейдите в папку с `manage.py`:  `cd gameDJ`
 
 <h2 align="center">этап второй - Запуск игры:</h2>
 Важно! Убедитесь что вы находитесь в папке с файлом manage.py
