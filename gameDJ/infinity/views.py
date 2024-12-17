@@ -14,7 +14,11 @@ from .utils import *
 logger = logging.getLogger(__name__)
 
 def home(request):
-    return render(request, 'home.html')
+    username = request.user.username
+    context = {
+        'username': username,
+    }
+    return render(request, 'home.html', context)
 
 
 def register(request):
@@ -23,23 +27,18 @@ def register(request):
         form = UserCreationForm(request.POST)
         if form.is_valid():
             logger.info("Форма регистрации успешно прошла валидацию.")
-            try:
-                user = form.save()  # создаём юзера в бд
-                logger.info(f"Пользователь {user.username} успешно создан.")
-                login_auth(request, user)
-                logger.info(f"Пользователь {user.username} успешно залогинен.")
-                return redirect('infinity:base')
-            except Exception as e:
-                logger.error(f"Произошла ошибка при создании пользователя: {e}")
-                context = {'form': form, 'error_message': 'Произошла ошибка при регистрации. Попробуйте позже.'}
-                return render(request, 'register.html', context)
-        else:
-            form = UserCreationForm()
-            logger.debug("Отображение формы регистрации (метод GET).")
-        context = {
-            'form': form,
-        }
-        return render(request, 'register.html', context)  # рендерим)
+            user = form.save()
+            logger.info(f"Пользователь {user.username} успешно создан.")
+            login_auth(request, user)
+            logger.info(f"Пользователь {user.username} успешно залогинен.")
+            return redirect('infinity:home')
+    else:
+        form = UserCreationForm()
+        logger.debug("Отображение формы регистрации (метод GET).")
+    context = {
+        'form': form,
+    }
+    return render(request, 'register.html', context)  # рендерим)
 
 
 def login_f(request):
@@ -73,6 +72,7 @@ def battle_view(request):
     player_scores = request.session.get('player_scores', 0)
     enemy = request.session.get('enemy', rand_enemy())
     enemy_hp = request.session.get('enemy_hp', 1)
+    username = request.user.username
     notification = None
 
     hero_img = 'images/Hero.png'
@@ -98,20 +98,21 @@ def battle_view(request):
 
         if result == 'Вы наносите урон и блокируете атаку' or result == 'Урон друг другу':
             enemy_hp -= 1
+        now_enemy = enemy
 
         if enemy_hp <= 0:
+            notification = 'enemy_defeated'
             player_scores += 100
             level += 1
             enemy = rand_enemy()
             monster_image = enemys.get(enemy, "images/Monsters/default.png")
             #enemy_hp = level  # Для повышения сложности)
             enemy_hp = 1
-            notification = 'enemy_defeated'
             logger.info(f"Враг {enemy} побежден! Уровень повышен до {level}, очки игрока: {player_scores}")
 
         if player_hp <= 0:
             notification = 'player_defeated'
-            if notification == 'Exit':
+            if not notification:
                 return redirect('infinity:end_game')
                 logger.info("Игрок проиграл.")
 
@@ -122,18 +123,20 @@ def battle_view(request):
 
         return render(request, 'dashboard.html', {
             'result': result,
-            'player_attack': player_attack,
-            'player_def': player_def,
-            'enemy_attack': enemy_attack,
-            'enemy_def': enemy_def,
+            'notification': notification,
             'level': level,
+            'username': username,
             'player_hp': player_hp,
             'player_scores': player_scores,
+            'player_attack': player_attack,
+            'player_def': player_def,
+            'hero_img': hero_img,
+            'enemy_attack': enemy_attack,
+            'enemy_def': enemy_def,
             'enemy': enemy,
             'enemy_hp': enemy_hp,
-            'notification': notification,
             'monster_image': monster_image,
-            'hero_img': hero_img,
+            'now_enemy': now_enemy
         })
 
     return render(request, 'dashboard.html', {
@@ -144,6 +147,7 @@ def battle_view(request):
         'enemy': enemy,
         'enemy_hp': enemy_hp,
         'monster_image': monster_image,
+        'username': username,
     })
 
 def end_game(request):

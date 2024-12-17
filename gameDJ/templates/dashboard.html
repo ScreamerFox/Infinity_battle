@@ -22,7 +22,7 @@
     <input type="hidden" id="player_def" name="player_def">
     <div class="battle-area">
         <div class="player">
-            <h3>Герой!</h3>
+            <h3>{{ username }}!</h3>
             <p>Ваше HP: {{ player_hp }} | Scores: {{ player_scores }}</p>
             <img src="/media/{{ hero_img }}" class="hero_img">
             <div id="player_def_buttons">  <h4>Защищать:</h4>
@@ -86,11 +86,11 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="enemyDefeatedModalLabel">{{ enemy }} побеждён!</h5>
+                    <h5 class="modal-title" id="enemyDefeatedModalLabel">{{ now_enemy }} побеждён!</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    Поздравляем, {{ enemy }} повержен!
+                    Поздравляем, {{ now_enemy }} повержен!
                     <p>Ваши очки + 100</p>
                 </div>
                 <div class="modal-footer">

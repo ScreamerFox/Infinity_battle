@@ -14,7 +14,7 @@
         <h1>Добро пожаловать в <span class="highlight">Infinity battle</span>!</h1>
         <p>Это домашняя страница приложения.</p>
         {% if user.is_authenticated %}
-        <a href="{% url 'infinity:dashboard' %}" class="btn">Вперёд в битву!</a>
+        <a href="{% url 'infinity:dashboard' %}" class="btn">Вперёд в битву {{ username }}!</a>
         {% else %}
         <a href="{% url 'infinity:login_f' %}" class="btn">Войти в игру</a>
         {% endif %}
