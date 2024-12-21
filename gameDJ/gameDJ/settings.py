@@ -16,7 +16,6 @@ import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
@@ -27,7 +26,6 @@ SECRET_KEY = 'django-insecure-z9xnm4n=opajt9*-6j-1g=%-%elkmt5a7zq(1)857j_+8wwj^)
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
 
 # Application definition
 
@@ -71,7 +69,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'gameDJ.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
@@ -81,7 +78,6 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
@@ -101,7 +97,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/5.1/topics/i18n/
 
@@ -113,12 +108,11 @@ USE_I18N = True
 
 USE_TZ = True
 
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static'), ]
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
@@ -128,8 +122,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 
-
-LOG_DIR = os.path.join(BASE_DIR, 'logs') #Создаем папку logs в корне проекта
+LOG_DIR = os.path.join(BASE_DIR, 'logs')
 os.makedirs(LOG_DIR, exist_ok=True)
 
 LOGGING = {
@@ -144,14 +137,14 @@ LOGGING = {
     'handlers': {
         'file': {
             'level': 'DEBUG',  # Уровень логирования
-            'class': 'logging.handlers.RotatingFileHandler', #Ротация файлов
+            'class': 'logging.handlers.RotatingFileHandler',  # Ротация файлов
             'filename': os.path.join(LOG_DIR, 'debug.log'),
             'maxBytes': 1024 * 1024 * 5,  # Максимальный размер файла (5 МБ)
             'backupCount': 5,  # Количество старых файлов для хранения
             'formatter': 'loki_format',
             'encoding': 'utf-8',
         },
-                'console': {
+        'console': {
             'level': 'INFO',
             'class': 'logging.StreamHandler',
             'formatter': 'loki_format'
@@ -160,10 +153,10 @@ LOGGING = {
     'loggers': {
         '': {
             'handlers': ['file'],
-            'level': 'DEBUG', #Минимальный уровень, все что выше будет записано
+            'level': 'DEBUG',  # Минимальный уровень, все что выше будет записано
             'propagate': True,
         },
-                'django.request': { #Отдельный логгер для ошибок запросов
+        'django.request': {  # Отдельный логгер для ошибок запросов
             'handlers': ['file'],
             'level': 'ERROR',
             'propagate': False,
