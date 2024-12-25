@@ -1263,3 +1263,1944 @@ DEBUG 2024-12-17 13:14:12,349 Действие игрока: Атака - гол
 DEBUG 2024-12-17 13:14:12,350 Действие врага: Атака - голова, Защита - голова
 INFO 2024-12-17 13:14:12,350 Результат боя: Враг наносит урон и блокирует вас
 INFO 2024-12-17 13:14:12,350 Игрок получил урон. HP игрока: 2
+INFO 2024-12-20 14:17:54,780 Watching for file changes with StatReloader
+DEBUG 2024-12-20 14:17:58,897 Начало боя. Уровень: 1, HP игрока: 2, Очки игрока: 0, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:18:05,014 Начало боя. Уровень: 1, HP игрока: 2, Очки игрока: 0, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:18:05,014 Действие игрока: Атака - ноги, Защита - торс
+DEBUG 2024-12-20 14:18:05,014 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-20 14:18:05,014 Результат боя: вы и враг блокируете атаку
+DEBUG 2024-12-20 14:18:09,255 Начало боя. Уровень: 1, HP игрока: 2, Очки игрока: 0, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:18:09,256 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-20 14:18:09,256 Действие врага: Атака - ноги, Защита - голова
+INFO 2024-12-20 14:18:09,256 Результат боя: вы и враг блокируете атаку
+DEBUG 2024-12-20 14:18:16,887 Начало боя. Уровень: 1, HP игрока: 2, Очки игрока: 0, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:18:16,888 Действие игрока: Атака - торс, Защита - голова
+DEBUG 2024-12-20 14:18:16,888 Действие врага: Атака - ноги, Защита - ноги
+INFO 2024-12-20 14:18:16,888 Результат боя: Урон друг другу
+INFO 2024-12-20 14:18:16,888 Игрок получил урон. HP игрока: 1
+INFO 2024-12-20 14:18:16,888 Враг Крылатая бестия побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 14:18:22,473 Начало боя. Уровень: 2, HP игрока: 1, Очки игрока: 100, Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-20 14:18:22,473 Действие игрока: Атака - торс, Защита - ноги
+DEBUG 2024-12-20 14:18:22,473 Действие врага: Атака - ноги, Защита - ноги
+INFO 2024-12-20 14:18:22,473 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 14:18:22,473 Враг Крылатая бестия побежден! Уровень повышен до 3, очки игрока: 200
+DEBUG 2024-12-20 14:18:26,738 Начало боя. Уровень: 3, HP игрока: 1, Очки игрока: 200, Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-20 14:18:26,738 Действие игрока: Атака - ноги, Защита - торс
+DEBUG 2024-12-20 14:18:26,738 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-20 14:18:26,738 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 14:18:26,739 Враг Лупоглаз побежден! Уровень повышен до 4, очки игрока: 300
+DEBUG 2024-12-20 14:18:36,097 Начало боя. Уровень: 4, HP игрока: 1, Очки игрока: 300, Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-20 14:18:36,097 Действие игрока: Атака - торс, Защита - голова
+DEBUG 2024-12-20 14:18:36,097 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-20 14:18:36,097 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-20 14:18:36,097 Игрок получил урон. HP игрока: 0
+DEBUG 2024-12-20 14:18:39,539 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-20 14:18:42,649 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-20 14:18:42,649 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-20 14:18:42,649 Действие врага: Атака - торс, Защита - торс
+INFO 2024-12-20 14:18:42,649 Результат боя: Урон друг другу
+INFO 2024-12-20 14:18:42,649 Игрок получил урон. HP игрока: 2
+INFO 2024-12-20 14:18:42,649 Враг Гнолл побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 14:18:46,675 Начало боя. Уровень: 2, HP игрока: 2, Очки игрока: 100, Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-20 14:18:46,675 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-20 14:18:46,675 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-20 14:18:46,675 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 14:18:46,675 Враг Крыса побежден! Уровень повышен до 3, очки игрока: 200
+DEBUG 2024-12-20 14:18:54,091 Начало боя. Уровень: 3, HP игрока: 2, Очки игрока: 200, Враг: Крыса, HP врага: 1
+DEBUG 2024-12-20 14:18:54,091 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-20 14:18:54,091 Действие врага: Атака - торс, Защита - торс
+INFO 2024-12-20 14:18:54,091 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 14:18:54,091 Враг Рогач побежден! Уровень повышен до 4, очки игрока: 300
+DEBUG 2024-12-20 14:19:00,124 Начало боя. Уровень: 4, HP игрока: 2, Очки игрока: 300, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:19:00,124 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-20 14:19:00,124 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-20 14:19:00,124 Результат боя: вы и враг блокируете атаку
+DEBUG 2024-12-20 14:19:07,045 Начало боя. Уровень: 4, HP игрока: 2, Очки игрока: 300, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:19:07,045 Действие игрока: Атака - ноги, Защита - ноги
+DEBUG 2024-12-20 14:19:07,045 Действие врага: Атака - ноги, Защита - ноги
+INFO 2024-12-20 14:19:07,045 Результат боя: вы и враг блокируете атаку
+DEBUG 2024-12-20 14:19:10,189 Начало боя. Уровень: 4, HP игрока: 2, Очки игрока: 300, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:19:10,189 Действие игрока: Атака - торс, Защита - торс
+DEBUG 2024-12-20 14:19:10,189 Действие врага: Атака - ноги, Защита - голова
+INFO 2024-12-20 14:19:10,189 Результат боя: Урон друг другу
+INFO 2024-12-20 14:19:10,189 Игрок получил урон. HP игрока: 1
+INFO 2024-12-20 14:19:10,189 Враг Лупоглаз побежден! Уровень повышен до 5, очки игрока: 400
+DEBUG 2024-12-20 14:19:15,477 Начало боя. Уровень: 5, HP игрока: 1, Очки игрока: 400, Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-20 14:19:15,477 Действие игрока: Атака - голова, Защита - голова
+DEBUG 2024-12-20 14:19:15,477 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-20 14:19:15,477 Результат боя: Урон друг другу
+INFO 2024-12-20 14:19:15,477 Игрок получил урон. HP игрока: 0
+INFO 2024-12-20 14:19:15,477 Враг Кентавр побежден! Уровень повышен до 6, очки игрока: 500
+INFO 2024-12-20 14:25:35,842 Watching for file changes with StatReloader
+DEBUG 2024-12-20 14:25:38,984 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-20 14:25:41,760 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Волк, HP врага: 1
+DEBUG 2024-12-20 14:25:41,760 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-20 14:25:41,760 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-20 14:25:41,760 Результат боя: Урон друг другу
+INFO 2024-12-20 14:25:41,760 Игрок получил урон. HP игрока: 2
+INFO 2024-12-20 14:25:41,760 Враг Кентавр побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 14:25:51,297 Начало боя. Уровень: 2, HP игрока: 2, Очки игрока: 100, Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-20 14:25:51,297 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-20 14:25:51,297 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-20 14:25:51,298 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-20 14:25:51,298 Игрок получил урон. HP игрока: 1
+DEBUG 2024-12-20 14:25:55,623 Начало боя. Уровень: 2, HP игрока: 1, Очки игрока: 100, Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-20 14:25:55,623 Действие игрока: Атака - ноги, Защита - торс
+DEBUG 2024-12-20 14:25:55,623 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-20 14:25:55,623 Результат боя: Урон друг другу
+INFO 2024-12-20 14:25:55,623 Игрок получил урон. HP игрока: 0
+INFO 2024-12-20 14:25:55,623 Враг Разбойник побежден! Уровень повышен до 3, очки игрока: 200
+INFO 2024-12-20 14:29:12,922 Watching for file changes with StatReloader
+DEBUG 2024-12-20 14:29:14,576 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-20 14:29:17,080 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:29:18,639 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-20 14:29:18,944 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Волк, HP врага: 1
+DEBUG 2024-12-20 14:29:19,223 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-20 14:29:19,495 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:29:19,711 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-20 14:29:19,943 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Крыса, HP врага: 1
+DEBUG 2024-12-20 14:29:20,222 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Крыса, HP врага: 1
+DEBUG 2024-12-20 14:29:20,543 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-20 14:29:21,009 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Минотавр, HP врага: 1
+DEBUG 2024-12-20 14:29:21,279 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-20 14:29:21,639 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-20 14:29:22,039 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-20 14:29:22,593 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-20 14:29:23,007 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Волк, HP врага: 1
+DEBUG 2024-12-20 14:29:23,343 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-20 14:29:25,651 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Вор, HP врага: 1
+DEBUG 2024-12-20 14:29:25,651 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-20 14:29:25,651 Действие врага: Атака - ноги, Защита - голова
+INFO 2024-12-20 14:29:25,651 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-20 14:29:25,651 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-20 14:29:30,699 Начало боя. Уровень: 1, HP игрока: 2, Очки игрока: 0, Враг: Вор, HP врага: 1
+DEBUG 2024-12-20 14:29:30,700 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-20 14:29:30,700 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-20 14:29:30,700 Результат боя: Урон друг другу
+INFO 2024-12-20 14:29:30,700 Игрок получил урон. HP игрока: 1
+INFO 2024-12-20 14:29:30,700 Враг Гнолл побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 14:29:35,011 Начало боя. Уровень: 2, HP игрока: 1, Очки игрока: 100, Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-20 14:29:35,011 Действие игрока: Атака - ноги, Защита - торс
+DEBUG 2024-12-20 14:29:35,011 Действие врага: Атака - голова, Защита - торс
+INFO 2024-12-20 14:29:35,011 Результат боя: Урон друг другу
+INFO 2024-12-20 14:29:35,011 Игрок получил урон. HP игрока: 0
+INFO 2024-12-20 14:29:35,011 Враг Крыса побежден! Уровень повышен до 3, очки игрока: 200
+INFO 2024-12-20 14:31:20,045 Watching for file changes with StatReloader
+DEBUG 2024-12-20 14:31:22,686 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Крыса, HP врага: 1
+DEBUG 2024-12-20 14:31:25,276 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-20 14:31:25,276 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-20 14:31:25,276 Действие врага: Атака - голова, Защита - голова
+INFO 2024-12-20 14:31:25,276 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-20 14:31:25,276 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-20 14:31:28,828 Начало боя. Уровень: 1, HP игрока: 2, Очки игрока: 0, Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-20 14:31:28,828 Действие игрока: Атака - ноги, Защита - ноги
+DEBUG 2024-12-20 14:31:28,828 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-20 14:31:28,828 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 14:31:28,828 Враг Крыса побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 14:31:32,262 Начало боя. Уровень: 2, HP игрока: 2, Очки игрока: 100, Враг: Крыса, HP врага: 1
+DEBUG 2024-12-20 14:31:32,262 Действие игрока: Атака - торс, Защита - голова
+DEBUG 2024-12-20 14:31:32,262 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-20 14:31:32,262 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 14:31:32,262 Враг Ихтиозавр побежден! Уровень повышен до 3, очки игрока: 200
+DEBUG 2024-12-20 14:31:35,558 Начало боя. Уровень: 3, HP игрока: 2, Очки игрока: 200, Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-20 14:31:35,558 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-20 14:31:35,558 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-20 14:31:35,558 Результат боя: Урон друг другу
+INFO 2024-12-20 14:31:35,558 Игрок получил урон. HP игрока: 1
+INFO 2024-12-20 14:31:35,558 Враг Гаргулия побежден! Уровень повышен до 4, очки игрока: 300
+DEBUG 2024-12-20 14:31:39,311 Начало боя. Уровень: 4, HP игрока: 1, Очки игрока: 300, Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-20 14:31:39,311 Действие игрока: Атака - ноги, Защита - торс
+DEBUG 2024-12-20 14:31:39,311 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-20 14:31:39,311 Результат боя: Урон друг другу
+INFO 2024-12-20 14:31:39,311 Игрок получил урон. HP игрока: 0
+INFO 2024-12-20 14:31:39,311 Враг Вор побежден! Уровень повышен до 5, очки игрока: 400
+INFO 2024-12-20 14:38:50,634 Watching for file changes with StatReloader
+DEBUG 2024-12-20 14:40:30,084 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-20 14:40:34,412 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-20 14:40:34,412 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-20 14:40:34,412 Действие врага: Атака - ноги, Защита - голова
+INFO 2024-12-20 14:40:34,412 Результат боя: вы и враг блокируете атаку
+DEBUG 2024-12-20 14:40:36,957 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-20 14:40:36,957 Действие игрока: Атака - торс, Защита - торс
+DEBUG 2024-12-20 14:40:36,957 Действие врага: Атака - голова, Защита - голова
+INFO 2024-12-20 14:40:36,957 Результат боя: Урон друг другу
+INFO 2024-12-20 14:40:36,957 Игрок получил урон. HP игрока: 2
+INFO 2024-12-20 14:40:36,957 Враг Разбойник побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 14:40:42,686 Начало боя. Уровень: 2, HP игрока: 2, Очки игрока: 100, Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-20 14:40:42,686 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-20 14:40:42,686 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-20 14:40:42,686 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 14:40:42,686 Враг Разбойник побежден! Уровень повышен до 3, очки игрока: 200
+DEBUG 2024-12-20 14:40:46,542 Начало боя. Уровень: 3, HP игрока: 2, Очки игрока: 200, Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-20 14:40:46,542 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-20 14:40:46,542 Действие врага: Атака - голова, Защита - торс
+INFO 2024-12-20 14:40:46,542 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 14:40:46,542 Враг Гаргулия побежден! Уровень повышен до 4, очки игрока: 300
+DEBUG 2024-12-20 14:40:52,270 Начало боя. Уровень: 4, HP игрока: 2, Очки игрока: 300, Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-20 14:40:52,270 Действие игрока: Атака - торс, Защита - торс
+DEBUG 2024-12-20 14:40:52,270 Действие врага: Атака - голова, Защита - голова
+INFO 2024-12-20 14:40:52,270 Результат боя: Урон друг другу
+INFO 2024-12-20 14:40:52,270 Игрок получил урон. HP игрока: 1
+INFO 2024-12-20 14:40:52,271 Враг Рогач побежден! Уровень повышен до 5, очки игрока: 400
+DEBUG 2024-12-20 14:40:56,679 Начало боя. Уровень: 5, HP игрока: 1, Очки игрока: 400, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:40:56,679 Действие игрока: Атака - ноги, Защита - торс
+DEBUG 2024-12-20 14:40:56,679 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-20 14:40:56,679 Результат боя: Урон друг другу
+INFO 2024-12-20 14:40:56,679 Игрок получил урон. HP игрока: 0
+INFO 2024-12-20 14:40:56,679 Враг Кентавр побежден! Уровень повышен до 6, очки игрока: 500
+INFO 2024-12-20 14:41:13,900 Watching for file changes with StatReloader
+DEBUG 2024-12-20 14:41:16,753 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-20 14:41:18,865 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0, Враг: Волк, HP врага: 1
+DEBUG 2024-12-20 14:41:18,865 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-20 14:41:18,865 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-20 14:41:18,865 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 14:41:18,865 Враг Лупоглаз побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 14:41:22,144 Начало боя. Уровень: 2, HP игрока: 3, Очки игрока: 100, Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-20 14:41:22,144 Действие игрока: Атака - ноги, Защита - ноги
+DEBUG 2024-12-20 14:41:22,144 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-20 14:41:22,144 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-20 14:41:22,144 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-20 14:41:24,407 Начало боя. Уровень: 2, HP игрока: 2, Очки игрока: 100, Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-20 14:41:24,408 Действие игрока: Атака - ноги, Защита - торс
+DEBUG 2024-12-20 14:41:24,408 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-20 14:41:24,408 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 14:41:24,408 Враг Рогач побежден! Уровень повышен до 3, очки игрока: 200
+DEBUG 2024-12-20 14:41:27,674 Начало боя. Уровень: 3, HP игрока: 2, Очки игрока: 200, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:41:27,674 Действие игрока: Атака - голова, Защита - голова
+DEBUG 2024-12-20 14:41:27,674 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-20 14:41:27,674 Результат боя: Урон друг другу
+INFO 2024-12-20 14:41:27,674 Игрок получил урон. HP игрока: 1
+INFO 2024-12-20 14:41:27,674 Враг Рогач побежден! Уровень повышен до 4, очки игрока: 300
+DEBUG 2024-12-20 14:41:32,131 Начало боя. Уровень: 4, HP игрока: 1, Очки игрока: 300, Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 14:41:32,131 Действие игрока: Атака - голова, Защита - голова
+DEBUG 2024-12-20 14:41:32,131 Действие врага: Атака - ноги, Защита - голова
+INFO 2024-12-20 14:41:32,131 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-20 14:41:32,131 Игрок получил урон. HP игрока: 0
+INFO 2024-12-20 15:06:37,409 Watching for file changes with StatReloader
+DEBUG 2024-12-20 15:06:46,022 Начало боя. Уровень: <django.db.models.query_utils.DeferredAttribute object at 0x000002503A668B60>, HP игрока: <django.db.models.query_utils.DeferredAttribute object at 0x000002503A668B90>, Очки игрока: <django.db.models.query_utils.DeferredAttribute object at 0x000002503A668AD0>, Враг: Рогач, HP врага: <django.db.models.query_utils.DeferredAttribute object at 0x000002503A668BC0>
+INFO 2024-12-20 15:07:39,869 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-20 15:07:40,198 Watching for file changes with StatReloader
+ERROR 2024-12-20 15:07:40,383 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 70, in battle_view
+    level = GameSession.level.all()
+            ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DeferredAttribute' object has no attribute 'all'
+INFO 2024-12-20 15:07:57,746 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-20 15:07:58,072 Watching for file changes with StatReloader
+INFO 2024-12-20 15:09:08,466 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-20 15:09:08,803 Watching for file changes with StatReloader
+DEBUG 2024-12-20 15:09:08,911 Начало боя. Уровень: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C20>, HP игрока: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C50>, Очки игрока: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F41A0>, Враг: Разбойник, HP врага: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C80>
+DEBUG 2024-12-20 15:09:10,881 Начало боя. Уровень: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C20>, HP игрока: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C50>, Очки игрока: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F41A0>, Враг: Разбойник, HP врага: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C80>
+DEBUG 2024-12-20 15:09:11,504 Начало боя. Уровень: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C20>, HP игрока: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C50>, Очки игрока: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F41A0>, Враг: Гаргулия, HP врага: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C80>
+DEBUG 2024-12-20 15:09:12,642 Начало боя. Уровень: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C20>, HP игрока: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C50>, Очки игрока: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F41A0>, Враг: Ихтиозавр, HP врага: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C80>
+DEBUG 2024-12-20 15:09:14,209 Начало боя. Уровень: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C20>, HP игрока: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C50>, Очки игрока: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F41A0>, Враг: Лупоглаз, HP врага: <django.db.models.query_utils.DeferredAttribute object at 0x00000198812F4C80>
+INFO 2024-12-20 15:10:41,597 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-20 15:10:41,920 Watching for file changes with StatReloader
+INFO 2024-12-20 15:10:43,796 Watching for file changes with StatReloader
+ERROR 2024-12-20 15:10:49,014 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 70, in battle_view
+    game_session, created = GameSession.objects.get_or_create(user=request.user)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 948, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 635, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: enemy_hp, id, level, player_hp, player_scores
+INFO 2024-12-20 15:11:55,795 Watching for file changes with StatReloader
+INFO 2024-12-20 15:12:52,950 D:\Project\Python\Diplom\Django\gameDJ\infinity\models.py changed, reloading.
+INFO 2024-12-20 15:12:53,293 Watching for file changes with StatReloader
+INFO 2024-12-20 15:15:48,437 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-20 15:15:48,751 Watching for file changes with StatReloader
+INFO 2024-12-20 15:16:17,564 Watching for file changes with StatReloader
+INFO 2024-12-20 15:16:29,375 Watching for file changes with StatReloader
+ERROR 2024-12-20 15:16:32,417 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 70, in battle_view
+    game_session, created = game_session.objects.get_or_create(user=request.user)
+                            ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'game_session' where it is not associated with a value
+INFO 2024-12-20 15:17:57,233 Watching for file changes with StatReloader
+ERROR 2024-12-20 15:17:58,823 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 70, in battle_view
+    game_session, created = GameSession.objects.get_or_create(user=request.user)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 948, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 635, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: enemy_hp, id, level, player_hp, player_scores
+INFO 2024-12-20 15:19:14,877 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-20 15:19:15,205 Watching for file changes with StatReloader
+ERROR 2024-12-20 15:19:16,573 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 71, in battle_view
+    game_session, created = GameSession.objects.get_or_create(user=request.user)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 948, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 635, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: enemy_hp, id, level, player_hp, player_scores
+ERROR 2024-12-20 15:19:17,281 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 71, in battle_view
+    game_session, created = GameSession.objects.get_or_create(user=request.user)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 948, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 635, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: enemy_hp, id, level, player_hp, player_scores
+INFO 2024-12-20 15:19:32,586 Watching for file changes with StatReloader
+ERROR 2024-12-20 15:19:34,364 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 71, in battle_view
+    game_session, created = GameSession.objects.get_or_create(user=request.user)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 948, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 635, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: enemy_hp, id, level, player_hp, player_scores
+ERROR 2024-12-20 15:20:28,281 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 71, in battle_view
+    game_session, created = GameSession.objects.get_or_create(user=request.user)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 948, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 635, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: enemy_hp, id, level, player_hp, player_scores
+INFO 2024-12-20 16:04:50,923 Watching for file changes with StatReloader
+ERROR 2024-12-20 16:04:52,316 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 71, in battle_view
+    game_session, created = GameSession.objects.get_or_create(user=request.user)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 948, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 635, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: enemy_hp, id, level, player_hp, player_scores
+ERROR 2024-12-20 16:04:53,025 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 71, in battle_view
+    game_session, created = GameSession.objects.get_or_create(user=request.user)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 948, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 635, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: enemy_hp, id, level, player_hp, player_scores
+INFO 2024-12-20 16:06:18,096 Watching for file changes with StatReloader
+ERROR 2024-12-20 16:06:19,535 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: infinity_gamesession.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 71, in battle_view
+    game_session, created = GameSession.objects.get_or_create(user=request.user)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 948, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 645, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: infinity_gamesession.user_id
+INFO 2024-12-20 16:09:24,561 D:\Project\Python\Diplom\Django\gameDJ\infinity\models.py changed, reloading.
+INFO 2024-12-20 16:09:24,873 Watching for file changes with StatReloader
+INFO 2024-12-20 16:09:39,777 Watching for file changes with StatReloader
+DEBUG 2024-12-20 16:09:41,614 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-20 16:09:45,422 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-20 16:09:58,322 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-20 16:09:58,322 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-20 16:09:58,322 Действие врага: Атака - голова, Защита - торс
+INFO 2024-12-20 16:09:58,322 Результат боя: Урон друг другу
+INFO 2024-12-20 16:09:58,322 Игрок получил урон. HP игрока: 2
+INFO 2024-12-20 16:09:58,322 Враг Гнолл побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 16:10:02,361 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-20 16:10:02,361 Действие игрока: Атака - торс, Защита - ноги
+DEBUG 2024-12-20 16:10:02,361 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-20 16:10:02,361 Результат боя: Урон друг другу
+INFO 2024-12-20 16:10:02,361 Игрок получил урон. HP игрока: 2
+INFO 2024-12-20 16:10:02,361 Враг Минотавр побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 16:10:06,049 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Минотавр, HP врага: 1
+DEBUG 2024-12-20 16:10:06,049 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-20 16:10:06,049 Действие врага: Атака - голова, Защита - голова
+INFO 2024-12-20 16:10:06,049 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 16:10:06,049 Враг Рогач побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 16:10:11,747 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 16:10:11,747 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-20 16:10:11,747 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-20 16:10:11,747 Результат боя: вы и враг блокируете атаку
+DEBUG 2024-12-20 16:10:17,802 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 16:10:17,802 Действие игрока: Атака - торс, Защита - голова
+DEBUG 2024-12-20 16:10:17,802 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-20 16:10:17,802 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-20 16:10:17,802 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-20 16:10:20,202 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Рогач, HP врага: 1
+DEBUG 2024-12-20 16:10:20,203 Действие игрока: Атака - ноги, Защита - торс
+DEBUG 2024-12-20 16:10:20,203 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-20 16:10:20,203 Результат боя: Урон друг другу
+INFO 2024-12-20 16:10:20,203 Игрок получил урон. HP игрока: 2
+INFO 2024-12-20 16:10:20,203 Враг Минотавр побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 16:10:24,684 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Минотавр, HP врага: 1
+DEBUG 2024-12-20 16:10:24,684 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-20 16:10:24,684 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-20 16:10:24,684 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-20 16:10:24,684 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-20 16:10:27,116 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Минотавр, HP врага: 1
+DEBUG 2024-12-20 16:10:27,116 Действие игрока: Атака - ноги, Защита - торс
+DEBUG 2024-12-20 16:10:27,116 Действие врага: Атака - торс, Защита - торс
+INFO 2024-12-20 16:10:27,116 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 16:10:27,116 Враг Вор побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 16:11:48,484 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Вор, HP врага: 1
+DEBUG 2024-12-20 16:11:48,484 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-20 16:11:48,484 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-20 16:11:48,484 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 16:11:48,484 Враг Гнолл побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 16:11:52,403 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-20 16:11:52,403 Действие игрока: Атака - ноги, Защита - ноги
+DEBUG 2024-12-20 16:11:52,403 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-20 16:11:52,403 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-20 16:11:52,403 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-20 16:12:01,139 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-20 16:12:01,139 Действие игрока: Атака - торс, Защита - торс
+DEBUG 2024-12-20 16:12:01,139 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-20 16:12:01,139 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-20 16:12:01,139 Враг Разбойник побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 16:13:50,998 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-20 16:13:50,998 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-20 16:13:50,998 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-20 16:13:50,998 Результат боя: вы и враг блокируете атаку
+DEBUG 2024-12-20 16:13:55,149 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-20 16:13:55,149 Действие игрока: Атака - торс, Защита - ноги
+DEBUG 2024-12-20 16:13:55,149 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-20 16:13:55,149 Результат боя: Урон друг другу
+INFO 2024-12-20 16:13:55,149 Игрок получил урон. HP игрока: 2
+INFO 2024-12-20 16:13:55,149 Враг Кентавр побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-20 16:14:14,336 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-20 16:14:14,336 Действие игрока: Атака - голова, Защита - голова
+DEBUG 2024-12-20 16:14:14,336 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-20 16:14:14,336 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-20 16:14:14,336 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:10:19,504 Watching for file changes with StatReloader
+ERROR 2024-12-21 14:10:30,428 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: infinity_gamesession.player_attack
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 72, in battle_view
+    game_session, created = GameSession.objects.get_or_create(user=request.user)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 948, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 645, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: infinity_gamesession.player_attack
+INFO 2024-12-21 14:10:51,947 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:10:53,297 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крыса, HP врага: 1
+DEBUG 2024-12-21 14:10:58,111 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Волк, HP врага: 1
+DEBUG 2024-12-21 14:10:58,111 Действие игрока: Атака - голова, Защита - ноги
+ERROR 2024-12-21 14:10:58,132 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 92, in battle_view
+    enemy_attack, enemy_def = []
+    ^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 0)
+INFO 2024-12-21 14:11:45,360 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 14:11:45,765 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:11:46,741 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-21 14:11:49,876 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Минотавр, HP врага: 1
+DEBUG 2024-12-21 14:11:49,876 Действие игрока: Атака - торс, Защита - голова
+INFO 2024-12-21 14:11:49,876 Результат боя: Урон друг другу
+INFO 2024-12-21 14:11:49,876 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:11:49,876 Враг Гаргулия побежден! Уровень повышен до 2, очки игрока: 100
+ERROR 2024-12-21 14:11:49,897 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 136, in battle_view
+    'enemy_attack': enemy_attack,
+                    ^^^^^^^^^^^^
+NameError: name 'enemy_attack' is not defined
+INFO 2024-12-21 14:12:37,061 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 14:12:37,425 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:12:38,472 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-21 14:12:40,929 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-21 14:12:40,929 Действие игрока: Атака - ноги, Защита - голова
+INFO 2024-12-21 14:12:40,929 Результат боя: Урон друг другу
+INFO 2024-12-21 14:12:40,929 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:12:40,929 Враг Гаргулия побежден! Уровень повышен до 2, очки игрока: 100
+ERROR 2024-12-21 14:12:40,954 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 137, in battle_view
+    'enemy_def': game_session.enemy_def,
+                 ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'GameSession' object has no attribute 'enemy_def'. Did you mean: 'enemy_hp'?
+INFO 2024-12-21 14:13:21,607 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 14:13:22,021 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:13:24,619 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Минотавр, HP врага: 1
+DEBUG 2024-12-21 14:13:26,804 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крыса, HP врага: 1
+DEBUG 2024-12-21 14:13:26,804 Действие игрока: Атака - торс, Защита - голова
+INFO 2024-12-21 14:13:26,804 Результат боя: Урон друг другу
+INFO 2024-12-21 14:13:26,805 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:13:26,805 Враг Гнолл побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 14:13:43,860 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:13:47,464 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Вор, HP врага: 1
+DEBUG 2024-12-21 14:14:03,116 Действие игрока: Атака - голова, Защита - торс
+INFO 2024-12-21 14:15:15,929 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:15:17,905 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 14:15:20,501 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 14:15:20,501 Действие игрока: Атака - голова, Защита - ноги
+INFO 2024-12-21 14:15:20,502 Результат боя: Урон друг другу
+INFO 2024-12-21 14:15:20,502 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:15:20,502 Враг Гаргулия побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 14:15:31,002 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Ихтиозавр, HP врага: 1
+INFO 2024-12-21 14:20:43,433 Watching for file changes with StatReloader
+ERROR 2024-12-21 14:20:47,371 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 79, in battle_view
+    enemy_attack, enemy_defense = random.choice(TARGET)[0]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+INFO 2024-12-21 14:21:14,009 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:21:18,285 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крыса, HP врага: 1
+DEBUG 2024-12-21 14:21:22,534 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-21 14:21:22,534 Действие игрока: Атака - голова, Защита - торс
+ERROR 2024-12-21 14:21:22,566 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 97, in battle_view
+    result = fight(player_attack, player_def, enemy_defense)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fight() missing 1 required positional argument: 'enemy_defence'
+INFO 2024-12-21 14:21:52,149 Watching for file changes with StatReloader
+INFO 2024-12-21 14:21:56,603 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:21:58,411 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крыса, HP врага: 1
+DEBUG 2024-12-21 14:22:01,361 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Рогач, HP врага: 1
+DEBUG 2024-12-21 14:22:06,088 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гаргулия, HP врага: 1
+INFO 2024-12-21 14:22:33,311 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:22:33,871 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Минотавр, HP врага: 1
+DEBUG 2024-12-21 14:22:37,791 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Рогач, HP врага: 1
+INFO 2024-12-21 14:22:44,358 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:22:44,779 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-21 14:22:50,445 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-21 14:23:14,064 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крыса, HP врага: 1
+DEBUG 2024-12-21 14:23:20,465 Действие игрока: Атака - торс, Защита - голова
+INFO 2024-12-21 14:23:21,353 Результат боя: Урон друг другу
+INFO 2024-12-21 14:23:24,262 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:23:29,794 Враг Минотавр побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 14:23:39,404 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:23:41,706 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-21 14:23:45,912 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-21 14:23:45,912 Действие игрока: Атака - голова, Защита - торс
+INFO 2024-12-21 14:23:45,912 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-21 14:23:45,912 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-21 14:23:49,842 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Вор, HP врага: 1
+DEBUG 2024-12-21 14:23:49,842 Действие игрока: Атака - торс, Защита - ноги
+INFO 2024-12-21 14:23:49,843 Результат боя: Урон друг другу
+INFO 2024-12-21 14:23:49,843 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:23:49,843 Враг Лупоглаз побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 14:24:41,035 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 14:24:41,420 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:25:56,608 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-21 14:25:56,608 Действие игрока: Атака - голова, Защита - торс
+INFO 2024-12-21 14:25:56,609 Результат боя: Урон друг другу
+INFO 2024-12-21 14:25:56,609 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:25:56,609 Враг Крылатая бестия побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 14:27:48,233 Watching for file changes with StatReloader
+INFO 2024-12-21 14:27:49,469 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:27:53,643 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-21 14:27:56,757 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-21 14:27:56,757 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 14:27:56,757 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-21 14:27:56,757 Результат боя: Урон друг другу
+INFO 2024-12-21 14:27:56,757 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:27:56,757 Враг Кентавр побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 14:28:14,592 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 14:28:14,592 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 14:28:14,592 Действие врага: Атака - тело, Защита - ноги
+INFO 2024-12-21 14:28:14,592 Результат боя: Урон друг другу
+INFO 2024-12-21 14:28:14,592 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:28:14,592 Враг Лупоглаз побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 14:30:56,269 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:31:00,691 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Минотавр, HP врага: 1
+DEBUG 2024-12-21 14:31:03,601 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-21 14:31:03,601 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 14:31:03,601 Действие врага: Атака - ноги, Защита - ноги
+INFO 2024-12-21 14:31:03,601 Результат боя: Урон друг другу
+INFO 2024-12-21 14:31:03,601 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:31:03,601 Враг Крыса побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 14:31:12,031 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Рогач, HP врага: 1
+DEBUG 2024-12-21 14:31:12,033 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-21 14:31:12,033 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-21 14:31:12,033 Результат боя: Урон друг другу
+INFO 2024-12-21 14:31:12,033 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:31:12,033 Враг Рогач побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 14:31:16,041 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-21 14:31:16,042 Действие игрока: Атака - ноги, Защита - торс
+DEBUG 2024-12-21 14:31:16,042 Действие врага: Атака - торс, Защита - торс
+INFO 2024-12-21 14:31:16,042 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 14:31:16,042 Враг Гаргулия побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 14:31:22,502 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Волк, HP врага: 1
+DEBUG 2024-12-21 14:31:22,502 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 14:31:22,503 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-21 14:31:22,503 Результат боя: вы и враг блокируете атаку
+DEBUG 2024-12-21 14:31:27,136 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Волк, HP врага: 1
+DEBUG 2024-12-21 14:31:27,136 Действие игрока: Атака - Торс, Защита - ноги
+DEBUG 2024-12-21 14:31:27,136 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-21 14:31:27,136 Результат боя: Урон друг другу
+INFO 2024-12-21 14:31:27,136 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:31:27,136 Враг Волк побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 14:31:31,728 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Волк, HP врага: 1
+DEBUG 2024-12-21 14:31:31,728 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-21 14:31:31,728 Действие врага: Атака - голова, Защита - голова
+INFO 2024-12-21 14:31:31,729 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 14:31:31,729 Враг Разбойник побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 14:32:06,789 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-21 14:32:06,790 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 14:32:06,790 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-21 14:32:06,790 Результат боя: Урон друг другу
+INFO 2024-12-21 14:32:06,790 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:32:06,790 Враг Минотавр побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 14:32:44,263 Watching for file changes with StatReloader
+INFO 2024-12-21 14:33:08,653 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:33:36,799 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Рогач, HP врага: 1
+INFO 2024-12-21 14:37:24,083 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:37:28,002 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Рогач, HP врага: 1
+DEBUG 2024-12-21 14:37:31,066 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-21 14:37:31,066 Действие игрока: Атака - Торс, Защита - торс
+DEBUG 2024-12-21 14:37:31,066 Действие врага: Атака - ноги, Защита - ноги
+INFO 2024-12-21 14:37:31,066 Результат боя: Урон друг другу
+INFO 2024-12-21 14:37:31,066 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:37:31,066 Враг Гаргулия побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 14:37:38,754 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Волк, HP врага: 1
+DEBUG 2024-12-21 14:37:38,754 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-21 14:37:38,754 Действие врага: Атака - ноги, Защита - голова
+INFO 2024-12-21 14:37:38,754 Результат боя: Урон друг другу
+INFO 2024-12-21 14:37:38,754 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:37:38,754 Враг Лупоглаз побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 14:39:31,849 D:\Project\Python\Diplom\Django\gameDJ\infinity\models.py changed, reloading.
+INFO 2024-12-21 14:39:32,207 Watching for file changes with StatReloader
+INFO 2024-12-21 14:46:09,625 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:46:14,401 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крыса, HP врага: 1
+DEBUG 2024-12-21 14:46:14,401 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-21 14:46:14,401 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-21 14:46:14,401 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-21 14:46:14,401 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-21 14:46:17,406 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Волк, HP врага: 1
+DEBUG 2024-12-21 14:46:17,406 Действие игрока: Атака - Торс, Защита - голова
+DEBUG 2024-12-21 14:46:17,406 Действие врага: Атака - голова, Защита - торс
+INFO 2024-12-21 14:46:17,406 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 14:46:17,406 Враг Лупоглаз побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 14:47:17,519 Watching for file changes with StatReloader
+INFO 2024-12-21 14:51:52,622 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:51:58,658 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-21 14:52:09,279 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-21 14:52:09,280 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 14:52:09,280 Действие врага: Атака - ноги, Защита - голова
+INFO 2024-12-21 14:52:09,280 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-21 14:52:09,280 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-21 14:52:13,024 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-21 14:52:13,024 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-21 14:52:13,024 Действие врага: Атака - ноги, Защита - ноги
+INFO 2024-12-21 14:52:13,024 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-21 14:52:13,024 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-21 14:52:16,502 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-21 14:52:16,503 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 14:52:16,503 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-21 14:52:16,503 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 14:52:16,503 Враг Минотавр побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 14:53:40,750 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:53:44,875 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-21 14:53:48,408 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 14:53:48,408 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-21 14:53:48,408 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-21 14:53:48,408 Результат боя: Урон друг другу
+INFO 2024-12-21 14:53:48,408 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:53:48,409 Враг Разбойник побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 14:53:53,897 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-21 14:53:53,897 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 14:53:53,897 Действие врага: Атака - ноги, Защита - ноги
+INFO 2024-12-21 14:53:53,897 Результат боя: Урон друг другу
+INFO 2024-12-21 14:53:53,897 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 14:53:53,897 Враг Рогач побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 14:53:58,919 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Разбойник, HP врага: 1
+DEBUG 2024-12-21 14:53:58,919 Действие игрока: Атака - ноги, Защита - торс
+DEBUG 2024-12-21 14:53:58,919 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-21 14:53:58,919 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-21 14:53:58,919 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-21 14:54:02,241 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-21 14:54:02,241 Действие игрока: Атака - голова, Защита - голова
+DEBUG 2024-12-21 14:54:02,241 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-21 14:54:02,241 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-21 14:54:02,241 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-21 14:54:05,196 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 14:54:05,196 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 14:54:05,196 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-21 14:54:05,196 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 14:54:05,196 Враг Лупоглаз побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 14:57:20,436 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:57:23,611 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: <function rand_enemy at 0x0000027C256CF380>, HP врага: 1
+INFO 2024-12-21 14:58:42,819 Watching for file changes with StatReloader
+DEBUG 2024-12-21 14:58:55,401 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-21 14:58:59,333 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Волк, HP врага: 1
+DEBUG 2024-12-21 14:58:59,334 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 14:58:59,334 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-21 14:58:59,334 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 14:58:59,334 Враг Рогач побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 14:59:04,956 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-21 14:59:04,956 Действие игрока: Атака - Торс, Защита - ноги
+DEBUG 2024-12-21 14:59:04,956 Действие врага: Атака - ноги, Защита - голова
+INFO 2024-12-21 14:59:04,956 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 14:59:04,956 Враг Разбойник побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 15:00:00,874 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:00:02,691 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-21 15:00:02,692 Действие игрока: Атака - Торс, Защита - ноги
+DEBUG 2024-12-21 15:00:02,692 Действие врага: Атака - ноги, Защита - ноги
+INFO 2024-12-21 15:00:02,692 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 15:00:02,692 Враг Ихтиозавр побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 15:00:08,647 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-21 15:00:08,647 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 15:00:08,647 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-21 15:00:08,647 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 15:00:08,647 Враг Лупоглаз побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 15:01:09,458 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 15:01:09,824 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:01:10,305 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-21 15:01:10,305 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 15:01:10,305 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-21 15:01:10,305 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 15:01:10,306 Враг Ихтиозавр побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 15:01:14,888 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Рогач, HP врага: 1
+DEBUG 2024-12-21 15:01:14,888 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-21 15:01:14,888 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-21 15:01:14,888 Результат боя: Урон друг другу
+INFO 2024-12-21 15:01:14,888 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 15:01:14,888 Враг Рогач побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 15:01:21,038 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-21 15:01:21,038 Действие игрока: Атака - Торс, Защита - торс
+DEBUG 2024-12-21 15:01:21,038 Действие врага: Атака - торс, Защита - торс
+INFO 2024-12-21 15:01:21,038 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 15:01:21,038 Враг Гнолл побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 15:01:25,460 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-21 15:01:25,460 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-21 15:01:25,460 Действие врага: Атака - ноги, Защита - ноги
+INFO 2024-12-21 15:01:25,460 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-21 15:01:25,460 Игрок получил урон. HP игрока: 2
+DEBUG 2024-12-21 15:01:28,671 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-21 15:01:28,671 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 15:01:28,671 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-21 15:01:28,671 Результат боя: вы и враг блокируете атаку
+DEBUG 2024-12-21 15:01:31,815 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-21 15:01:31,815 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-21 15:01:31,815 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-21 15:01:31,816 Результат боя: вы и враг блокируете атаку
+INFO 2024-12-21 15:02:26,558 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:02:33,700 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-21 15:02:36,761 Начало боя. Уровень: 1, HP игрока: 3, Очки игрока: 0,Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-21 15:02:36,761 Действие игрока: Атака - Торс, Защита - голова
+DEBUG 2024-12-21 15:02:36,761 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-21 15:02:36,761 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 15:02:36,761 Враг Лупоглаз побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 15:02:40,820 Начало боя. Уровень: 2, HP игрока: 3, Очки игрока: 100,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 15:02:40,820 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-21 15:02:40,820 Действие врага: Атака - ноги, Защита - голова
+INFO 2024-12-21 15:02:40,820 Результат боя: вы и враг блокируете атаку
+DEBUG 2024-12-21 15:02:44,193 Начало боя. Уровень: 2, HP игрока: 3, Очки игрока: 100,Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-21 15:02:44,193 Действие игрока: Атака - Торс, Защита - голова
+DEBUG 2024-12-21 15:02:44,194 Действие врага: Атака - голова, Защита - торс
+INFO 2024-12-21 15:02:44,194 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 15:02:44,194 Враг Лупоглаз побежден! Уровень повышен до 3, очки игрока: 200
+DEBUG 2024-12-21 15:02:48,573 Начало боя. Уровень: 3, HP игрока: 3, Очки игрока: 200,Враг: Вор, HP врага: 1
+DEBUG 2024-12-21 15:02:48,573 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-21 15:02:48,573 Действие врага: Атака - торс, Защита - торс
+INFO 2024-12-21 15:02:48,573 Результат боя: Урон друг другу
+INFO 2024-12-21 15:02:48,573 Игрок получил урон. HP игрока: 2
+INFO 2024-12-21 15:02:48,573 Враг Вор побежден! Уровень повышен до 4, очки игрока: 300
+INFO 2024-12-21 15:02:57,551 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:03:01,710 Начало боя. Уровень: 4, HP игрока: 2, Очки игрока: 300,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 15:03:04,630 Начало боя. Уровень: 4, HP игрока: 2, Очки игрока: 300,Враг: Волк, HP врага: 1
+DEBUG 2024-12-21 15:03:04,630 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 15:03:04,630 Действие врага: Атака - ноги, Защита - ноги
+INFO 2024-12-21 15:03:04,630 Результат боя: Урон друг другу
+INFO 2024-12-21 15:03:04,630 Игрок получил урон. HP игрока: 1
+INFO 2024-12-21 15:03:04,630 Враг Волк побежден! Уровень повышен до 5, очки игрока: 400
+DEBUG 2024-12-21 15:03:08,422 Начало боя. Уровень: 5, HP игрока: 1, Очки игрока: 400,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 15:03:08,422 Действие игрока: Атака - ноги, Защита - ноги
+DEBUG 2024-12-21 15:03:08,423 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-21 15:03:08,423 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 15:03:08,423 Враг Гаргулия побежден! Уровень повышен до 6, очки игрока: 500
+DEBUG 2024-12-21 15:03:13,231 Начало боя. Уровень: 6, HP игрока: 1, Очки игрока: 500,Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-21 15:03:13,231 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 15:03:13,232 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-21 15:03:13,232 Результат боя: Урон друг другу
+INFO 2024-12-21 15:03:13,232 Игрок получил урон. HP игрока: 0
+INFO 2024-12-21 15:03:13,232 Враг Ихтиозавр побежден! Уровень повышен до 7, очки игрока: 600
+DEBUG 2024-12-21 15:03:16,592 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 15:03:21,029 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 15:03:21,029 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-21 15:03:21,029 Действие врага: Атака - голова, Защита - ноги
+INFO 2024-12-21 15:03:21,029 Результат боя: вы и враг блокируете атаку
+DEBUG 2024-12-21 15:03:24,945 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Вор, HP врага: 1
+INFO 2024-12-21 15:03:41,918 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:03:42,922 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Вор, HP врага: 1
+DEBUG 2024-12-21 15:03:46,336 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Рогач, HP врага: 1
+INFO 2024-12-21 15:04:02,565 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:04:04,140 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Крыса, HP врага: 1
+DEBUG 2024-12-21 15:04:07,500 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Кентавр, HP врага: 1
+INFO 2024-12-21 15:04:40,193 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:05:08,086 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Вор, HP врага: 1
+DEBUG 2024-12-21 15:05:39,310 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Вор, HP врага: 1
+DEBUG 2024-12-21 15:05:43,303 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 15:05:43,303 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-21 15:05:43,303 Результат боя: Урон друг другу
+INFO 2024-12-21 15:05:43,304 Игрок получил урон. HP игрока: -1
+INFO 2024-12-21 15:05:43,304 Враг Вор побежден! Уровень повышен до 8, очки игрока: 700
+ERROR 2024-12-21 15:05:43,730 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: CHECK constraint failed: player_hp
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 128, in battle_view
+    game_session.save()
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\base.py", line 1130, in _save_table
+    updated = self._do_update(
+              ^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\base.py", line 1195, in _do_update
+    return filtered._update(values) > 0
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1278, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 2003, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: CHECK constraint failed: player_hp
+INFO 2024-12-21 15:06:04,204 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:06:18,770 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-21 15:06:18,771 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Минотавр, HP врага: 1
+DEBUG 2024-12-21 15:06:18,771 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Рогач, HP врага: 1
+DEBUG 2024-12-21 15:06:18,771 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 15:06:18,772 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-21 15:06:18,772 Результат боя: вы и враг блокируете атаку
+INFO 2024-12-21 15:06:32,382 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:06:53,272 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Крылатая бестия, HP врага: 1
+DEBUG 2024-12-21 15:06:53,273 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Волк, HP врага: 1
+DEBUG 2024-12-21 15:06:53,273 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-21 15:06:53,274 Действие врага: Атака - голова, Защита - торс
+INFO 2024-12-21 15:06:53,274 Результат боя: Урон друг другу
+INFO 2024-12-21 15:06:53,274 Игрок получил урон. HP игрока: -1
+INFO 2024-12-21 15:06:53,274 Враг Волк побежден! Уровень повышен до 8, очки игрока: 700
+INFO 2024-12-21 15:11:28,349 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:11:34,292 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Крыса, HP врага: 1
+DEBUG 2024-12-21 15:11:38,505 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Крыса, HP врага: 1
+DEBUG 2024-12-21 15:11:38,505 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 15:11:38,505 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-21 15:11:38,506 Результат боя: Урон друг другу
+INFO 2024-12-21 15:11:38,506 Игрок получил урон. HP игрока: -1
+INFO 2024-12-21 15:11:38,506 Враг Крыса побежден! Уровень повышен до 8, очки игрока: 700
+ERROR 2024-12-21 15:11:38,540 Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: CHECK constraint failed: player_hp
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 127, in battle_view
+    game_session.save()
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\base.py", line 1130, in _save_table
+    updated = self._do_update(
+              ^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\base.py", line 1195, in _do_update
+    return filtered._update(values) > 0
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\query.py", line 1278, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 2003, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: CHECK constraint failed: player_hp
+INFO 2024-12-21 15:13:31,060 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:13:35,464 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Вор, HP врага: 1
+DEBUG 2024-12-21 15:13:39,213 Начало боя. Уровень: 7, HP игрока: 0, Очки игрока: 600,Враг: Крыса, HP врага: 1
+DEBUG 2024-12-21 15:13:39,213 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-21 15:13:39,213 Действие врага: Атака - ноги, Защита - торс
+INFO 2024-12-21 15:13:39,213 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 15:13:39,213 Враг Крыса побежден! Уровень повышен до 8, очки игрока: 700
+DEBUG 2024-12-21 15:13:42,213 Начало боя. Уровень: 8, HP игрока: 0, Очки игрока: 700,Враг: Гаргулия, HP врага: 1
+INFO 2024-12-21 15:14:57,065 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 15:14:57,491 Watching for file changes with StatReloader
+INFO 2024-12-21 15:15:43,701 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:15:46,199 Начало боя. Уровень: 8, HP игрока: 0, Очки игрока: 700,Враг: Ихтиозавр, HP врага: 1
+DEBUG 2024-12-21 15:15:50,111 Начало боя. Уровень: 8, HP игрока: 0, Очки игрока: 700,Враг: Волк, HP врага: 1
+DEBUG 2024-12-21 15:15:53,983 Начало боя. Уровень: 8, HP игрока: 0, Очки игрока: 700,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 15:15:53,983 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 15:15:53,983 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-21 15:15:53,983 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 15:15:53,983 Враг Гаргулия побежден! Уровень повышен до 9, очки игрока: 800
+DEBUG 2024-12-21 15:15:57,975 Начало боя. Уровень: 9, HP игрока: 0, Очки игрока: 800,Враг: Кентавр, HP врага: 1
+INFO 2024-12-21 15:17:36,490 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:17:40,130 Начало боя. Уровень: 1, HP игрока: 10, Очки игрока: 0,Враг: Вор, HP врага: 1
+DEBUG 2024-12-21 15:17:44,809 Начало боя. Уровень: 1, HP игрока: 10, Очки игрока: 0,Враг: Рогач, HP врага: 1
+DEBUG 2024-12-21 15:17:44,809 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-21 15:17:44,809 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-21 15:17:44,809 Результат боя: Урон друг другу
+INFO 2024-12-21 15:17:44,809 Игрок получил урон. HP игрока: 9
+INFO 2024-12-21 15:17:44,809 Враг Рогач побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 15:17:50,521 Начало боя. Уровень: 1, HP игрока: 10, Очки игрока: 0,Враг: Кентавр, HP врага: 1
+DEBUG 2024-12-21 15:17:50,521 Действие игрока: Атака - Торс, Защита - голова
+DEBUG 2024-12-21 15:17:50,521 Действие врага: Атака - голова, Защита - торс
+INFO 2024-12-21 15:17:50,521 Результат боя: Вы наносите урон и блокируете атаку
+INFO 2024-12-21 15:17:50,521 Враг Кентавр побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 15:18:04,759 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:18:10,655 Начало боя. Уровень: 1, HP игрока: 10, Очки игрока: 0,Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-21 15:18:10,655 Действие игрока: Атака - голова, Защита - торс
+DEBUG 2024-12-21 15:18:10,656 Действие врага: Атака - голова, Защита - голова
+INFO 2024-12-21 15:18:10,656 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-21 15:18:10,656 Игрок получил урон. HP игрока: 9
+DEBUG 2024-12-21 15:18:17,476 Начало боя. Уровень: 1, HP игрока: 10, Очки игрока: 0,Враг: Гаргулия, HP врага: 1
+DEBUG 2024-12-21 15:18:17,476 Действие игрока: Атака - ноги, Защита - голова
+DEBUG 2024-12-21 15:18:17,476 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-21 15:18:17,476 Результат боя: Враг наносит урон и блокирует вас
+INFO 2024-12-21 15:18:17,476 Игрок получил урон. HP игрока: 9
+DEBUG 2024-12-21 15:18:29,371 Начало боя. Уровень: 1, HP игрока: 10, Очки игрока: 0,Враг: Лупоглаз, HP врага: 1
+DEBUG 2024-12-21 15:18:29,371 Действие игрока: Атака - Торс, Защита - голова
+DEBUG 2024-12-21 15:18:29,371 Действие врага: Атака - торс, Защита - голова
+INFO 2024-12-21 15:18:29,371 Результат боя: Урон друг другу
+INFO 2024-12-21 15:18:29,372 Игрок получил урон. HP игрока: 9
+INFO 2024-12-21 15:18:29,372 Враг Лупоглаз побежден! Уровень повышен до 2, очки игрока: 100
+DEBUG 2024-12-21 15:18:33,750 Начало боя. Уровень: 1, HP игрока: 10, Очки игрока: 0,Враг: Гнолл, HP врага: 1
+DEBUG 2024-12-21 15:18:33,750 Действие игрока: Атака - голова, Защита - ноги
+DEBUG 2024-12-21 15:18:33,750 Действие врага: Атака - торс, Защита - ноги
+INFO 2024-12-21 15:18:33,750 Результат боя: Урон друг другу
+INFO 2024-12-21 15:18:33,750 Игрок получил урон. HP игрока: 9
+INFO 2024-12-21 15:18:33,750 Враг Гнолл побежден! Уровень повышен до 2, очки игрока: 100
+INFO 2024-12-21 15:25:37,205 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 15:25:37,571 Watching for file changes with StatReloader
+INFO 2024-12-21 15:26:42,874 Watching for file changes with StatReloader
+INFO 2024-12-21 15:29:44,665 D:\Project\Python\Diplom\Django\gameDJ\infinity\utils.py changed, reloading.
+INFO 2024-12-21 15:29:45,040 Watching for file changes with StatReloader
+INFO 2024-12-21 15:29:50,222 Watching for file changes with StatReloader
+INFO 2024-12-21 15:30:15,121 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 15:30:15,537 Watching for file changes with StatReloader
+INFO 2024-12-21 15:32:59,515 Watching for file changes with StatReloader
+INFO 2024-12-21 15:34:25,634 Watching for file changes with StatReloader
+INFO 2024-12-21 15:35:40,953 Watching for file changes with StatReloader
+INFO 2024-12-21 15:37:58,036 Watching for file changes with StatReloader
+INFO 2024-12-21 15:41:37,436 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 15:41:37,812 Watching for file changes with StatReloader
+INFO 2024-12-21 15:41:43,153 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 15:41:43,604 Watching for file changes with StatReloader
+INFO 2024-12-21 15:42:00,148 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 15:42:00,502 Watching for file changes with StatReloader
+INFO 2024-12-21 15:42:10,734 Watching for file changes with StatReloader
+INFO 2024-12-21 15:42:35,810 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:42:52,484 Current high score: 800
+DEBUG 2024-12-21 15:42:52,484 Player score: 0
+INFO 2024-12-21 15:42:52,550 Game session reset to default values.
+INFO 2024-12-21 15:44:19,604 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:44:50,283 Current high score: 800
+DEBUG 2024-12-21 15:44:50,283 Player score: Rating object (2)
+ERROR 2024-12-21 15:44:50,303 Internal Server Error: /end_game/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 176, in end_game
+    if player_scores > player_scores.high_score:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '>' not supported between instances of 'Rating' and 'int'
+INFO 2024-12-21 15:47:22,555 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:47:48,553 Current high score: 800
+DEBUG 2024-12-21 15:47:48,553 Player score: 1000
+INFO 2024-12-21 15:47:48,630 New high score set: 1000
+INFO 2024-12-21 15:47:48,706 Game session reset to default values.
+INFO 2024-12-21 15:49:14,074 D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py changed, reloading.
+INFO 2024-12-21 15:49:14,438 Watching for file changes with StatReloader
+INFO 2024-12-21 15:58:16,214 Watching for file changes with StatReloader
+DEBUG 2024-12-21 15:58:42,004 Current high score: 1000
+DEBUG 2024-12-21 15:58:42,004 Player score: 100
+INFO 2024-12-21 15:58:42,096 Game session reset to default values.
+DEBUG 2024-12-21 15:59:12,641 Current high score: 1000
+DEBUG 2024-12-21 15:59:12,641 Player score: 400
+INFO 2024-12-21 15:59:12,717 Game session reset to default values.
+INFO 2024-12-21 16:02:57,766 Watching for file changes with StatReloader
+INFO 2024-12-21 16:04:21,739 D:\Project\Python\Diplom\Django\gameDJ\infinity\models.py changed, reloading.
+INFO 2024-12-21 16:04:22,127 Watching for file changes with StatReloader
+DEBUG 2024-12-21 16:04:41,725 Current high score: 1000
+DEBUG 2024-12-21 16:04:41,726 Player score: 100
+INFO 2024-12-21 16:04:41,801 Game session reset to default values.
+INFO 2024-12-21 16:06:21,569 Watching for file changes with StatReloader
+DEBUG 2024-12-21 16:06:32,475 Current high score: 1000
+DEBUG 2024-12-21 16:06:32,476 Player score: 400
+INFO 2024-12-21 16:06:32,551 Game session reset to default values.
+INFO 2024-12-24 13:25:11,679 Watching for file changes with StatReloader
+INFO 2024-12-24 13:27:18,041 D:\Project\Python\Diplom\Django\gameDJ\infinity\admin.py changed, reloading.
+INFO 2024-12-24 13:27:18,414 Watching for file changes with StatReloader
+INFO 2024-12-24 13:29:40,087 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:29:40,426 Watching for file changes with StatReloader
+INFO 2024-12-24 13:31:12,201 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:31:12,528 Watching for file changes with StatReloader
+INFO 2024-12-24 13:31:29,021 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:31:29,341 Watching for file changes with StatReloader
+INFO 2024-12-24 13:31:36,685 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:31:37,026 Watching for file changes with StatReloader
+INFO 2024-12-24 13:33:26,033 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:33:26,380 Watching for file changes with StatReloader
+INFO 2024-12-24 13:34:29,664 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:34:29,984 Watching for file changes with StatReloader
+INFO 2024-12-24 13:35:17,018 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:35:17,409 Watching for file changes with StatReloader
+INFO 2024-12-24 13:36:16,680 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:36:17,007 Watching for file changes with StatReloader
+INFO 2024-12-24 13:37:30,472 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:37:30,814 Watching for file changes with StatReloader
+INFO 2024-12-24 13:37:39,190 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:37:39,523 Watching for file changes with StatReloader
+INFO 2024-12-24 13:37:54,012 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:37:54,359 Watching for file changes with StatReloader
+INFO 2024-12-24 13:38:13,317 Watching for file changes with StatReloader
+DEBUG 2024-12-24 13:38:19,259 Отображение формы авторизации (метод GET).
+INFO 2024-12-24 13:38:23,842 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 13:38:23,842 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 13:40:35,953 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:40:36,280 Watching for file changes with StatReloader
+INFO 2024-12-24 13:41:01,927 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:41:02,264 Watching for file changes with StatReloader
+INFO 2024-12-24 13:43:14,715 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:43:15,052 Watching for file changes with StatReloader
+INFO 2024-12-24 13:43:15,293 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 13:43:15,293 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 13:44:44,616 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 13:44:44,617 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 13:44:44,817 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:44:45,157 Watching for file changes with StatReloader
+INFO 2024-12-24 13:47:16,919 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 13:47:16,920 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 13:47:17,075 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:47:17,440 Watching for file changes with StatReloader
+INFO 2024-12-24 13:48:55,020 Watching for file changes with StatReloader
+INFO 2024-12-24 13:48:56,193 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 13:48:56,193 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 13:48:59,480 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 13:48:59,480 Отображение формы регистрации (метод GET).
+DEBUG 2024-12-24 13:49:01,106 Отображение формы авторизации (метод GET).
+INFO 2024-12-24 13:49:02,563 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 13:49:02,563 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 13:50:34,051 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 13:50:34,371 Watching for file changes with StatReloader
+INFO 2024-12-24 13:53:28,532 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\models.py changed, reloading.
+INFO 2024-12-24 13:53:28,864 Watching for file changes with StatReloader
+INFO 2024-12-24 13:53:48,425 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\models.py changed, reloading.
+INFO 2024-12-24 13:53:48,763 Watching for file changes with StatReloader
+INFO 2024-12-24 13:53:58,313 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 13:53:58,314 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 13:54:49,113 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\models.py changed, reloading.
+INFO 2024-12-24 13:54:49,440 Watching for file changes with StatReloader
+INFO 2024-12-24 13:55:41,588 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\models.py changed, reloading.
+INFO 2024-12-24 13:55:41,924 Watching for file changes with StatReloader
+INFO 2024-12-24 13:55:42,236 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 13:55:42,237 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 13:58:49,356 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\password_validation.py changed, reloading.
+INFO 2024-12-24 13:58:49,696 Watching for file changes with StatReloader
+INFO 2024-12-24 14:00:07,394 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\password_validation.py changed, reloading.
+INFO 2024-12-24 14:00:07,722 Watching for file changes with StatReloader
+INFO 2024-12-24 14:00:25,255 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\password_validation.py changed, reloading.
+INFO 2024-12-24 14:00:25,598 Watching for file changes with StatReloader
+INFO 2024-12-24 14:00:43,107 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\password_validation.py changed, reloading.
+INFO 2024-12-24 14:00:43,447 Watching for file changes with StatReloader
+INFO 2024-12-24 14:01:03,006 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\password_validation.py changed, reloading.
+INFO 2024-12-24 14:01:03,335 Watching for file changes with StatReloader
+INFO 2024-12-24 14:02:02,568 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\password_validation.py changed, reloading.
+INFO 2024-12-24 14:02:02,919 Watching for file changes with StatReloader
+INFO 2024-12-24 14:03:43,843 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\password_validation.py changed, reloading.
+INFO 2024-12-24 14:03:44,179 Watching for file changes with StatReloader
+INFO 2024-12-24 14:03:44,475 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 14:03:44,475 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 14:04:18,982 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\password_validation.py changed, reloading.
+INFO 2024-12-24 14:04:19,322 Watching for file changes with StatReloader
+INFO 2024-12-24 14:04:19,776 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 14:04:19,776 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 14:04:30,127 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 14:04:30,127 Отображение формы регистрации (метод GET).
+DEBUG 2024-12-24 14:04:31,195 Отображение формы авторизации (метод GET).
+ERROR 2024-12-24 14:04:36,777 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 58, in login_f
+    return render(request, 'login.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 718, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 850, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 917, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\utils.py", line 87, in as_p
+    return self.render(self.template_name_p)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\utils.py", line 55, in render
+    return mark_safe(renderer.render(template, context))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1073, in render
+    return render_value_in_context(output, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1050, in render_value_in_context
+    value = str(value)
+            ^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\utils.py", line 55, in render
+    return mark_safe(renderer.render(template, context))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\defaulttags.py", line 327, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\defaulttags.py", line 210, in render
+    for i, item in enumerate(values):
+                   ^^^^^^^^^^^^^^^^^
+  File "<frozen _collections_abc>", line 1026, in __iter__
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\utils.py", line 197, in __getitem__
+    return next(iter(error))
+           ^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\exceptions.py", line 210, in __iter__
+    message %= error.params
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\utils\functional.py", line 167, in __mod__
+    return self.__cast() % other
+           ~~~~~~~~~~~~~~^~~~~~~
+ValueError: unsupported format character '?' (0x438) at index 43
+INFO 2024-12-24 14:08:04,579 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 14:08:04,919 Watching for file changes with StatReloader
+INFO 2024-12-24 14:08:43,900 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 14:08:44,224 Watching for file changes with StatReloader
+ERROR 2024-12-24 14:08:45,496 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\gameDJ\infinity\views.py", line 58, in login_f
+    return render(request, 'login.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 718, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 850, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 917, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\utils.py", line 87, in as_p
+    return self.render(self.template_name_p)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\utils.py", line 55, in render
+    return mark_safe(renderer.render(template, context))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1073, in render
+    return render_value_in_context(output, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1050, in render_value_in_context
+    value = str(value)
+            ^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\utils.py", line 55, in render
+    return mark_safe(renderer.render(template, context))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\defaulttags.py", line 327, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\template\defaulttags.py", line 210, in render
+    for i, item in enumerate(values):
+                   ^^^^^^^^^^^^^^^^^
+  File "<frozen _collections_abc>", line 1026, in __iter__
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\utils.py", line 197, in __getitem__
+    return next(iter(error))
+           ^^^^^^^^^^^^^^^^^
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\core\exceptions.py", line 210, in __iter__
+    message %= error.params
+  File "D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\utils\functional.py", line 167, in __mod__
+    return self.__cast() % other
+           ~~~~~~~~~~~~~~^~~~~~~
+TypeError: not enough arguments for format string
+INFO 2024-12-24 14:08:55,789 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 14:08:56,132 Watching for file changes with StatReloader
+INFO 2024-12-24 14:09:30,014 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\forms.py changed, reloading.
+INFO 2024-12-24 14:09:30,349 Watching for file changes with StatReloader
+INFO 2024-12-24 14:09:42,711 Пользователь Pus успешно авторизован.
+DEBUG 2024-12-24 14:10:04,437 Current high score: 400
+DEBUG 2024-12-24 14:10:04,437 Player score: 300
+INFO 2024-12-24 14:10:04,543 Game session reset to default values.
+DEBUG 2024-12-24 14:10:12,774 Отображение формы авторизации (метод GET).
+INFO 2024-12-24 14:10:13,758 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 14:10:13,759 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 14:10:25,223 Начало обработки запроса регистрации.
+INFO 2024-12-24 14:10:34,986 Начало обработки запроса регистрации.
+INFO 2024-12-24 14:11:18,651 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\password_validation.py changed, reloading.
+INFO 2024-12-24 14:11:18,989 Watching for file changes with StatReloader
+INFO 2024-12-24 14:11:20,318 Начало обработки запроса регистрации.
+INFO 2024-12-24 14:11:54,908 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\password_validation.py changed, reloading.
+INFO 2024-12-24 14:11:55,237 Watching for file changes with StatReloader
+INFO 2024-12-24 14:11:55,835 Начало обработки запроса регистрации.
+INFO 2024-12-24 14:12:15,808 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\contrib\auth\password_validation.py changed, reloading.
+INFO 2024-12-24 14:12:16,149 Watching for file changes with StatReloader
+INFO 2024-12-24 14:12:17,109 Начало обработки запроса регистрации.
+INFO 2024-12-24 14:12:24,245 Начало обработки запроса регистрации.
+INFO 2024-12-24 14:14:26,688 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 14:14:39,531 Отображение формы авторизации (метод GET).
+INFO 2024-12-24 14:14:48,559 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 14:14:48,560 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 14:17:47,368 Начало обработки запроса регистрации.
+INFO 2024-12-24 14:19:55,082 Начало обработки запроса регистрации.
+INFO 2024-12-24 14:24:30,007 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\fields.py changed, reloading.
+INFO 2024-12-24 14:24:30,365 Watching for file changes with StatReloader
+INFO 2024-12-24 14:24:30,502 Начало обработки запроса регистрации.
+INFO 2024-12-24 14:25:29,683 D:\Project\Python\Diplom\Django\.venv\Lib\site-packages\django\forms\fields.py changed, reloading.
+INFO 2024-12-24 14:25:30,040 Watching for file changes with StatReloader
+INFO 2024-12-24 14:25:30,638 Начало обработки запроса регистрации.
+INFO 2024-12-24 14:25:33,697 Начало обработки запроса регистрации.
+DEBUG 2024-12-24 14:25:33,697 Отображение формы регистрации (метод GET).
+INFO 2024-12-24 14:25:55,935 Начало обработки запроса регистрации.
+INFO 2024-12-24 14:25:55,937 Форма регистрации успешно прошла валидацию.
+INFO 2024-12-24 14:25:56,525 Пользователь Staturma успешно создан.
+INFO 2024-12-24 14:25:56,681 Пользователь Staturma успешно залогинен.
+INFO 2024-12-25 12:18:18,142 Watching for file changes with StatReloader
+INFO 2024-12-25 12:19:48,851 Watching for file changes with StatReloader
+INFO 2024-12-25 12:23:50,151 Watching for file changes with StatReloader
+DEBUG 2024-12-25 12:24:04,913 Current high score: 0
+DEBUG 2024-12-25 12:24:04,913 Player score: 200
+INFO 2024-12-25 12:24:04,980 New high score set: 200
+INFO 2024-12-25 12:24:05,062 Game session reset to default values.
+DEBUG 2024-12-25 12:24:18,839 Current high score: 200
+DEBUG 2024-12-25 12:24:18,839 Player score: 0
+INFO 2024-12-25 12:24:18,907 Game session reset to default values.
+DEBUG 2024-12-25 12:24:19,477 Current high score: 200
+DEBUG 2024-12-25 12:24:19,477 Player score: 0
+INFO 2024-12-25 12:24:19,540 Game session reset to default values.
+DEBUG 2024-12-25 12:24:20,061 Current high score: 200
+DEBUG 2024-12-25 12:24:20,061 Player score: 0
+INFO 2024-12-25 12:24:20,124 Game session reset to default values.
+DEBUG 2024-12-25 12:24:35,640 Current high score: 200
+DEBUG 2024-12-25 12:24:35,640 Player score: 0
+INFO 2024-12-25 12:24:35,701 Game session reset to default values.
+DEBUG 2024-12-25 12:24:36,206 Current high score: 200
+DEBUG 2024-12-25 12:24:36,206 Player score: 0
+INFO 2024-12-25 12:24:36,278 Game session reset to default values.
+DEBUG 2024-12-25 12:24:36,784 Current high score: 200
+DEBUG 2024-12-25 12:24:36,784 Player score: 0
+INFO 2024-12-25 12:24:36,834 Game session reset to default values.
+DEBUG 2024-12-25 12:24:37,543 Current high score: 200
+DEBUG 2024-12-25 12:24:37,543 Player score: 0
+INFO 2024-12-25 12:24:37,606 Game session reset to default values.
+DEBUG 2024-12-25 12:24:38,327 Current high score: 200
+DEBUG 2024-12-25 12:24:38,327 Player score: 0
+INFO 2024-12-25 12:24:38,384 Game session reset to default values.
+DEBUG 2024-12-25 12:25:30,086 Current high score: 200
+DEBUG 2024-12-25 12:25:30,086 Player score: 0
+INFO 2024-12-25 12:25:30,154 Game session reset to default values.
+DEBUG 2024-12-25 12:25:30,492 Current high score: 200
+DEBUG 2024-12-25 12:25:30,492 Player score: 0
+INFO 2024-12-25 12:25:30,598 Game session reset to default values.
+DEBUG 2024-12-25 12:25:30,769 Current high score: 200
+DEBUG 2024-12-25 12:25:30,769 Player score: 0
+INFO 2024-12-25 12:25:30,820 Game session reset to default values.
+DEBUG 2024-12-25 12:28:32,822 Current high score: 200
+DEBUG 2024-12-25 12:28:32,822 Player score: 300
+INFO 2024-12-25 12:28:32,878 New high score set: 300
+INFO 2024-12-25 12:28:32,960 Game session reset to default values.
+DEBUG 2024-12-25 12:28:53,025 Отображение формы авторизации (метод GET).
+INFO 2024-12-25 12:28:54,469 Начало обработки запроса регистрации.
+DEBUG 2024-12-25 12:28:54,469 Отображение формы регистрации (метод GET).
