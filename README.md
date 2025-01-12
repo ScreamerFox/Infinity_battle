@@ -27,8 +27,8 @@
 
 
  1) создайте пустую папку где будет размещаться игра и откройте её в командной строке
- 2) скопируйте проект себе на пк `git clone https://github.com/ScreamerFox/Infinity_battle.git`
- 3) перейти в папку проекта с помощью команды `cd Infinity_battle`
+ 2) скопируйте проект себе на пк командой - `git clone https://github.com/ScreamerFox/Infinity_battle.git`
+ 3) перейти в папку проекта с помощью команды - `cd Infinity_battle`
  4) Создайте виртуальное окружение:
   
     `python3 -m venv venv (Linux/macOS)`
@@ -39,15 +39,15 @@
     `source venv/bin/activate (Linux/macOS)`
     
     `venv\Scripts\activate (Windows) `
- 6) перейдите в папку gameDJ `cd gameDJ`
- 7) Установите зависимости: `pip install -r requirements.txt`
+ 6) перейдите в папку gameDJ - `cd gameDJ`
+ 7) Установите зависимости: - `pip install -r requirements.txt`
 
 <h2 align="center">этап второй - Запуск игры:</h2>
 Важно! Убедитесь что вы находитесь в папке с файлом manage.py
 
-1) после всех выполненных ранее шагов вписать `python manage.py runserver`
+1) после всех выполненных ранее шагов вписать - `python manage.py runserver`
 если всё - ок, то результат следующий:<img src="https://github.com/ScreamerFox/Infinity_battle/blob/master/gameDJ/media/images/sis/powershell_5SoUnrbcOe.png" height="150"/>
-2) копируем и и вставляем ссылку в браузере `http://127.0.0.1:8000/`
+2) копируем и и вставляем ссылку в браузере - `http://127.0.0.1:8000/`
  видим главную страницу игры:<img src="https://github.com/ScreamerFox/Infinity_battle/blob/master/gameDJ/media/images/sis/home_non_auturize.png" height="200"/>
 3) если это первый запуск и вы не зарегистрированы то смело жмакаем по кнопке регистрация если же нет, то по кнопке `войти в игру`.
 4) проходим простую форму регистрации:
@@ -58,7 +58,7 @@
    
    <img src="https://github.com/ScreamerFox/Infinity_battle/blob/master/gameDJ/media/images/sis/register.png" height="200"/>
 
-6) Как только вы зарегистрировались, вас кидает на главную страницу и там уже жмём `Вперёд в битву!`
+6) Как только вы зарегистрировались, вас кидает на главную страницу и там уже жмём - `Вперёд в битву!`
 7) Мы попадаем на страницу игры. Что мы тут увидим?<img src="https://github.com/ScreamerFox/Infinity_battle/blob/master/gameDJ/media/images/sis/browser_HTxTCnhBbi.png" height="400"/>
 
 <h2 align="center">этап третий - Играем:</h2>
