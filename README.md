@@ -21,12 +21,15 @@
   Одолеть столько монстров сколько сможете.</h3>
 
 <h2 align="center">Как играть?</h2>
-Для того что бы играть у вас на компьютере должен быть установлен Python версией 3.9 и выше!!!
+Для того что бы играть у вас на компьютере должен быть установлен Python версией 3.10 и выше!!!
 <h3>этап первый - Установка:</h3>
 
- 1) скопируйте проект себе на пк `git clone https://github.com/ScreamerFox/Infinity_battle.git`
- 2) перейти в папку проекта с помощью команды `cd Infinity_battle`
- 3) Создайте виртуальное окружение:
+
+
+ 1) создайте пустую папку где будет размещаться игра и откройте её в командной строке
+ 2) скопируйте проект себе на пк `git clone https://github.com/ScreamerFox/Infinity_battle.git`
+ 3) перейти в папку проекта с помощью команды `cd Infinity_battle`
+ 4) Создайте виртуальное окружение:
   
     `python3 -m venv venv (Linux/macOS)`
     
@@ -36,8 +39,8 @@
     `source venv/bin/activate (Linux/macOS)`
     
     `venv\Scripts\activate (Windows) `
+ 6) перейдите в папку gameDJ `cd gameDJ`
  7) Установите зависимости: `pip install -r requirements.txt`
- 8) Перейдите в папку с `manage.py`:  `cd gameDJ`
 
 <h2 align="center">этап второй - Запуск игры:</h2>
 Важно! Убедитесь что вы находитесь в папке с файлом manage.py
