@@ -30,7 +30,7 @@
         </div>
 
         <div class="result_desc">
-            <button id="confirm_button">Подтвердить</button>
+            <button id="confirm_button" disabled>Подтвердить</button>
             {% if result %}
                 <h4>Результат раунда:</h4>
                 <p>Ваши действия:</p> <p><font color="blue">защита-{{ player_def }}</font> | <font color="red">атака-{{ player_attack }}</font></p>
@@ -60,19 +60,31 @@
         const playerDefButtons = document.querySelectorAll('#player_def_buttons .player-button');
         const playerAttackInput = document.getElementById('player_attack');
         const playerDefInput = document.getElementById('player_def');
+        const confirmButton = document.getElementById('confirm_button');
+
+        function checkSelection() {
+            if (playerAttackInput.value && playerDefInput.value) {
+                confirmButton.disabled = false; // Разблокировать кнопку
+            } else {
+                confirmButton.disabled = true; // Заблокировать кнопку
+            }
+        }
 
         function handleButtonClick(buttons, targetInput) {
                 buttons.forEach(button => {
                     button.addEventListener('click', function () {
-                    buttons.forEach(b => b.disabled = false); // Разблокируем все кнопки
-                    button.disabled = true; // Блокируем текущую
-                    targetInput.value = this.value;
+                        buttons.forEach(b => b.disabled = false); // Разблокируем все кнопки
+                        button.disabled = true; // Блокируем текущую
+                        targetInput.value = this.value;
+                        checkSelection(); // Проверить, можно ли разблокировать кнопку
                     });
             });
         }
 
         handleButtonClick(playerAttackButtons, playerAttackInput);
-            handleButtonClick(playerDefButtons, playerDefInput);
+        handleButtonClick(playerDefButtons, playerDefInput);
+
+        checkSelection();
     });
 </script>
 
@@ -101,8 +113,8 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="playerDefeatedModalLabel">Game Over!</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <h5 class="modal-title" id="playerDefeatedModalLabel">Вас победил {{ now_enemy }}</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">Закрыть</button>
                 </div>
                 <div class="modal-body">
                     Вы проиграли, возвращайтесь с новыми силами!
@@ -116,12 +128,16 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', function () {
-            {% if notification == 'enemy_defeated' %}
-                new bootstrap.Modal(document.getElementById('enemyDefeatedModal')).show();
-            {% elif notification == 'player_defeated' %}
-                new bootstrap.Modal(document.getElementById('playerDefeatedModal')).show();
-            {% endif %}
+    {% if notification == 'enemy_defeated' %}
+        new bootstrap.Modal(document.getElementById('enemyDefeatedModal')).show();
+    {% elif notification == 'player_defeated' %}
+        const modal = new bootstrap.Modal(document.getElementById('playerDefeatedModal'));
+        modal.show();
+        modal._element.addEventListener('hidden.bs.modal', function () {
+            window.location.href = "/end_game"; // Перенаправление после закрытия
         });
+    {% endif %}
+});
     </script>
 
 </body>

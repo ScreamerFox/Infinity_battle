@@ -98,10 +98,18 @@ def battle_view(request):
         player_def = request.POST.get('player_def')
 
         result = fight(player_attack, player_def, enemy_attack, enemy_def)
+        allowed_results = [
+            'Вы и враг блокируете атаку',
+            'Урон друг другу',
+            'Вы наносите урон и блокируете атаку',
+            'Враг наносит урон и блокирует Вас',
+        ]
+        if result not in allowed_results:
+            raise ValueError(f"Неизвестный результат в функции (fight): {result}")
 
         now_enemy = enemy
 
-        if result == 'Враг наносит урон и блокирует вас' or result == 'Урон друг другу':
+        if result == 'Враг наносит урон и блокирует Вас' or result == 'Урон друг другу':
             player_hp -= 1
 
         if result == 'Вы наносите урон и блокируете атаку' or result == 'Урон друг другу':
@@ -118,7 +126,25 @@ def battle_view(request):
 
         if player_hp <= 0:
             notification = 'player_defeated'
-            return redirect('infinity:end_game')
+            game_session.player_hp = player_hp
+            game_session.save()
+            return render(request, 'dashboard.html', {
+                'result': result,
+                'notification': notification,
+                'level': level,
+                'username': username,
+                'player_hp': player_hp,
+                'player_scores': player_scores,
+                'player_attack': player_attack,
+                'player_def': player_def,
+                'hero_img': hero_img,
+                'enemy_attack': enemy_attack,
+                'enemy_def': enemy_def,
+                'enemy': now_enemy,
+                'enemy_hp': enemy_hp,
+                'monster_image': monster_image,
+                'now_enemy': now_enemy,
+            })
 
         game_session.level = level
         game_session.player_hp = player_hp
